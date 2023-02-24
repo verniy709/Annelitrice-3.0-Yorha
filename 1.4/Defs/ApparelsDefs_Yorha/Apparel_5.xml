@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_YoRHa_5" ParentName="Anneli_5" Abstract="True">
+		<equippedStatOffsets>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Category_Annelitrice_YoRHa</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_YoRHa_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+<!--Anneli_YoRHa_CloakA-->
+	<ThingDef ParentName="Anneli_YoRHa_5">
+		<defName>Anneli_YoRHa_CloakA</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)5_CloakA</label>
+		<graphicData>
+			<texPath>5/Anneli_YoRHa_CloakA</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5/Anneli_YoRHa_CloakA</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+<!--Anneli_YoRHa_CloakB-->
+	<ThingDef ParentName="Anneli_YoRHa_5">
+		<defName>Anneli_YoRHa_CloakB</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)5_CloakB</label>
+		<graphicData>
+			<texPath>5/Anneli_YoRHa_CloakB</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5/Anneli_YoRHa_CloakB</wornGraphicPath>
+			<tags>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,255,255,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+</Defs>

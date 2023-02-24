@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_YoRHa_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_YoRHa_KindBase</label>
+		<itemQuality>Good</itemQuality>
+		<defaultFactionType>Anneli_Faction_YoRHa</defaultFactionType>
+		<isFighter>true</isFighter>
+		<combatPower>120</combatPower>
+		<canBeSapper>true</canBeSapper>
+		<backstoryCategories>
+			<li>Anneli_Childhood</li>
+			<li>Anneli_Story_YoRHa</li>
+		</backstoryCategories>
+		<weaponMoney>1500</weaponMoney>
+		<techHediffsChance>1.0</techHediffsChance>
+		<techHediffsMoney>1000</techHediffsMoney>
+		<techHediffsTags>
+			<li>Advanced</li>
+		</techHediffsTags>
+		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
+		<gearHealthRange>
+			<min>0.4</min>
+			<max>2.0</max>
+		</gearHealthRange>
+		<inventoryOptions>
+			<skipChance>0.1</skipChance>
+			<subOptionsChooseOne>
+				<li>
+					<choiceChance>100</choiceChance>
+					<thingDef>Silver</thingDef>
+					<countRange>
+						<min>50</min>
+						<max>300</max>
+					</countRange>
+				</li>
+			</subOptionsChooseOne>
+		</inventoryOptions>
+	</PawnKindDef>
+
+	<!-- <li>Anneli_YoRHa_Copied_Flower</li>
+	<li>Anneli_YoRHa_Copied_Nier</li>
+	<li>Anneli_YoRHa_Copied_Kaine</li>
+	<li>Anneli_YoRHa_Commander</li>
+	<li>Anneli_YoRHa_Attacker</li>
+	<li>Anneli_YoRHa_Battler</li>
+	<li>Anneli_YoRHa_Defender</li>
+	<li>Anneli_YoRHa_Executioner</li>
+	<li>Anneli_YoRHa_Gunner</li>
+	<li>Anneli_YoRHa_Healer</li>
+	<li>Anneli_YoRHa_Operator</li>
+	<li>Anneli_YoRHa_Scanner</li> -->
+
+	<!-- Pawn spawn apparel:
+	Battler=Executioner
+	Defender=Operator
+	Gunner=Scanner -->
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Leader</defName>
+		<label>Copied_Leader</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Flower</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Copied_Flower</defName>
+		<label>Copied_Flower</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Flower</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Copied_Nier</defName>
+		<label>Copied_Nier</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Nier</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Copied_Kaine</defName>
+		<label>Copied_Kaine</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Kaine</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Commander</defName>
+		<label>Commander</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Commander</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Attacker</defName>
+		<label>Attacker</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Battler</defName>
+		<label>Battler</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Defender</defName>
+		<label>Defender</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Defender</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Executioner</defName>
+		<label>Executioner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Gunner</defName>
+		<label>Gunner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Healer</defName>
+		<label>Healer</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Operator</defName>
+		<label>Operator</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Operator</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Scanner</defName>
+		<label>Scanner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Scanner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	
+
+</Defs>
