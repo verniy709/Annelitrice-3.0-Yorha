@@ -26,6 +26,8 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_YoRHa_TopA</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -53,6 +55,8 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_YoRHa_TopB</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -80,6 +84,8 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_YoRHa_TopC</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -89,7 +95,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(200,60,60,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -107,6 +113,8 @@
 		<apparel>
 			<wornGraphicPath>2A/Anneli_YoRHa_TopD</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>

@@ -39,6 +39,14 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_FlatCap</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -64,6 +72,14 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_Beret</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -71,7 +87,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -89,6 +105,14 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_SideCap</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -114,6 +138,12 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_Hood</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -139,6 +169,8 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_RibbonedHat</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -150,7 +182,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateCommonality>0.5</generateCommonality><!--Less chance-->
 	</ThingDef>	
 
 	<!--Anneli_YoRHa_Headband-->
@@ -165,6 +196,14 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_Headband</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -190,6 +229,14 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_Hairband</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -215,6 +262,10 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_FlowerAccessory</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -222,7 +273,19 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(250,220,210,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(180,225,250,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(215,255,185,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,180,180,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -240,6 +303,7 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_Headwear</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Commander</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -247,7 +311,7 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(250,200,160,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
@@ -265,6 +329,8 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_ConicalHat</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Gunner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

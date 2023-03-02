@@ -14,7 +14,7 @@
 		</recipeMaker>
 	</ThingDef>
 
-<!--Anneli_YoRHa_HeavyArmor-->
+	<!--Anneli_YoRHa_HeavyArmor-->
 	<ThingDef ParentName="Anneli_YoRHa_34">
 		<defName>Anneli_YoRHa_HeavyArmor</defName>
 		<description>Dyeable.</description>
@@ -26,6 +26,8 @@
 		<apparel>
 			<wornGraphicPath>34/Anneli_YoRHa_HeavyArmor</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -37,7 +39,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.75</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
-			
+
 </Defs>

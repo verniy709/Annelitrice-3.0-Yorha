@@ -14,11 +14,11 @@
 		</recipeMaker>
 	</ThingDef>
 
-	<!--Anneli_YoRHa_WeaponA-->
+	<!--Anneli_YoRHa_WeaponSet-->
 	<ThingDef ParentName="Anneli_YoRHa_8A">
-		<defName>Anneli_YoRHa_WeaponA</defName>
-		<description>(YoRHa)8A_WeaponA</description>
-		<label>(YoRHa)8A_WeaponA</label>
+		<defName>Anneli_YoRHa_WeaponSet</defName>
+		<description>(YoRHa)8A_WeaponSet</description>
+		<label>(YoRHa)8A_WeaponSet</label>
 		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
@@ -35,15 +35,20 @@
 		<equippedStatOffsets>
 		</equippedStatOffsets>
 		<graphicData>
-			<texPath>8A/Anneli_YoRHa_WeaponA</texPath>
+			<texPath>8A/Anneli_YoRHa_WeaponSet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<apparel>
-			<wornGraphicPath>8A/Anneli_YoRHa_WeaponA</wornGraphicPath>
+			<wornGraphicPath>8A/Anneli_YoRHa_WeaponSet</wornGraphicPath>
 			<wornGraphicData>
 				<renderUtilityAsPack>true</renderUtilityAsPack><!--Behind Body-->
 			</wornGraphicData>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -51,11 +56,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(255,255,255,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

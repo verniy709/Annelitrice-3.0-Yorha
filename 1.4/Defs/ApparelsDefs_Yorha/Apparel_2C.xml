@@ -86,6 +86,65 @@
 		</colorGenerator>
 	</ThingDef>
 
+	<!--Anneli_YoRHa_HeelsC-->
+	<ThingDef ParentName="Anneli_YoRHa_2C_NonMetal">
+		<defName>Anneli_YoRHa_HeelsC</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)2C_HeelsC</label>
+		<graphicData>
+			<texPath>2C/Anneli_YoRHa_HeelsC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_YoRHa_HeelsC</wornGraphicPath>
+			<tags>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Scanner</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+	<!--Anneli_YoRHa_HeelsC_White-->
+	<ThingDef ParentName="Anneli_YoRHa_2C_NonMetal">
+		<defName>Anneli_YoRHa_HeelsC_White</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)2C_HeelsC</label>
+		<graphicData>
+			<texPath>2C/Anneli_YoRHa_HeelsC</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2C/Anneli_YoRHa_HeelsC</wornGraphicPath>
+			<tags>
+				<li>Anneli_YoRHa_Commander</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<recipeMaker Inherit="False">
+			<!--Not makeable-->
+			<useIngredientsForColor>false</useIngredientsForColor>
+    	</recipeMaker>
+	</ThingDef>
+
 	<!--Anneli_YoRHa_DressShoes-->
 	<ThingDef ParentName="Anneli_YoRHa_2C_NonMetal">
 		<defName>Anneli_YoRHa_DressShoes</defName>

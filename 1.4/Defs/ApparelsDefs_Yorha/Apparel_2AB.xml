@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-<ThingDef Name="Anneli_YoRHa_2AB" ParentName="Anneli_2AB" Abstract="True">
+	<ThingDef Name="Anneli_YoRHa_2AB" ParentName="Anneli_2AB" Abstract="True">
 		<equippedStatOffsets>
 		</equippedStatOffsets>
 		<thingCategories>
@@ -14,7 +14,7 @@
 		</recipeMaker>
 	</ThingDef>
 
-<!--Anneli_YoRHa_DressA-->
+	<!--Anneli_YoRHa_DressA-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_DressA</defName>
 		<description>Dyeable.</description>
@@ -35,13 +35,13 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_DressB-->
+	<!--Anneli_YoRHa_DressB-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_DressB</defName>
 		<description>Dyeable.</description>
@@ -62,13 +62,13 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_DressC-->
+	<!--Anneli_YoRHa_DressC-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_DressC</defName>
 		<description>Dyeable.</description>
@@ -89,13 +89,13 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(255,245,245,255)</only>
+					<only>(50,45,50,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_DressD-->
+	<!--Anneli_YoRHa_DressD-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_DressD</defName>
 		<description>Dyeable.</description>
@@ -121,7 +121,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_LongDressA-->
+	<!--Anneli_YoRHa_LongDressA-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_LongDressA</defName>
 		<description>Dyeable.</description>
@@ -148,7 +148,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_LongDressB-->
+	<!--Anneli_YoRHa_LongDressB-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_LongDressB</defName>
 		<description>Dyeable.</description>
@@ -175,7 +175,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_LongDressB_White-->
+	<!--Anneli_YoRHa_LongDressB_White-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_LongDressB_White</defName>
 		<description>Dyeable.</description>
@@ -202,10 +202,10 @@
 		<recipeMaker Inherit="False">
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
-    	</recipeMaker>
+		</recipeMaker>
 	</ThingDef>
 
-<!--Anneli_YoRHa_LongDressC-->
+	<!--Anneli_YoRHa_LongDressC-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_LongDressC</defName>
 		<description>Dyeable.</description>
@@ -232,7 +232,7 @@
 		</colorGenerator>
 	</ThingDef>
 
-<!--Anneli_YoRHa_CombatSuit-->
+	<!--Anneli_YoRHa_CombatSuit-->
 	<ThingDef ParentName="Anneli_YoRHa_2AB">
 		<defName>Anneli_YoRHa_CombatSuit</defName>
 		<description>Dyeable.</description>

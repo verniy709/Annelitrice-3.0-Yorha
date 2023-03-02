@@ -26,6 +26,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_Pants</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -113,6 +115,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_Shorts</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -170,6 +174,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_SkirtA</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -197,6 +203,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_SkirtB</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
@@ -224,6 +232,8 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_Miniskirt</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>

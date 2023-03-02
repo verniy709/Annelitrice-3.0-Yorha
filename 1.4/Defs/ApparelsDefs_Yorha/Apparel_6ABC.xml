@@ -40,6 +40,8 @@
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetA</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -51,7 +53,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateCommonality>0.5</generateCommonality><!--Less chance-->
 	</ThingDef>
 
 	<!--Anneli_YoRHa_HeavyHelmetB-->
@@ -67,6 +68,8 @@
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetB</wornGraphicPath>
 			<tags>
 				<li>Anneli_FullHelmet</li>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -74,11 +77,14 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(50,45,50,255)</only>
+					<only>(200,60,60,255)</only>
+				</li>
+				<li>
+					<weight>10</weight>
+					<only>(240,220,200,255)</only>
 				</li>
 			</options>
 		</colorGenerator>
-		<generateCommonality>0.5</generateCommonality><!--Less chance-->
 	</ThingDef>
 
 </Defs>
