@@ -39,7 +39,6 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetA</wornGraphicPath>
 			<tags>
-				<li>Anneli_FullHelmet</li>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
 			</tags>
@@ -67,7 +66,6 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetB</wornGraphicPath>
 			<tags>
-				<li>Anneli_FullHelmet</li>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
 			</tags>

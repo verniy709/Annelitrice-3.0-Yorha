@@ -71,6 +71,9 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
+    	<thingCategories Inherit="False">
+			<li>Category_Annelitrice_YoRHa_Dyed</li>
+		</thingCategories>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_Pants_Red-->
@@ -101,6 +104,9 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
+    	<thingCategories Inherit="False">
+			<li>Category_Annelitrice_YoRHa_Dyed</li>
+		</thingCategories>
 	</ThingDef>
 
 <!--Anneli_YoRHa_Shorts-->
@@ -160,6 +166,9 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
+    	<thingCategories Inherit="False">
+			<li>Category_Annelitrice_YoRHa_Dyed</li>
+		</thingCategories>
 	</ThingDef>
 
 <!--Anneli_YoRHa_SkirtA-->

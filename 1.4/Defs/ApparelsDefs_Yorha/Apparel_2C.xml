@@ -143,6 +143,9 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
+    	<thingCategories Inherit="False">
+			<li>Category_Annelitrice_YoRHa_Dyed</li>
+		</thingCategories>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_DressShoes-->
@@ -316,6 +319,9 @@
 			<!--Not makeable-->
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
+    	<thingCategories Inherit="False">
+			<li>Category_Annelitrice_YoRHa_Dyed</li>
+		</thingCategories>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_BootsA-->
