@@ -28,7 +28,7 @@
 		<canMakeRandomly>true</canMakeRandomly>
 		<canSiege>True</canSiege>
 		<canStageAttacks>true</canStageAttacks>
-		<leaderTitle>Commander</leaderTitle>
+		<leaderTitle>Gestalt</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
 		<backstoryCategories>
