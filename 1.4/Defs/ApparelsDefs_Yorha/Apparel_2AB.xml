@@ -39,6 +39,52 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>
+					<li>
+						<apparelDef>Anneli_YoRHa_TrenchCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_DressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_FurCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_DressA_Cropped</path>
+					</li> 	
+					<li>
+						<apparelDef>Anneli_Jurnizia_TrenchCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_DressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Gakuen_Coat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_DressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Parka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_GorkaParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_CamoParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+				</replaceTexPathList>
+			</li>
+		</comps>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_DressB-->
@@ -66,6 +112,32 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Parka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_GorkaParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_CamoParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+				</replaceTexPathList>
+			</li>
+		</comps>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_DressC-->
@@ -93,6 +165,32 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Parka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_GorkaParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_CamoParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+				</replaceTexPathList>
+			</li>
+		</comps>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_DressD-->
@@ -119,6 +217,32 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Parka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_GorkaParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_CamoParka</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
+						<level>1</level>
+						<path>Anneli_Null/Anneli_Null</path>
+					</li> 	 
+				</replaceTexPathList>
+			</li>
+		</comps>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_LongDressA-->
@@ -146,6 +270,52 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<comps>
+			<li Class="Annelitrice.CompProperties_ApparelSecialTex">
+				<replaceTexPathList>
+					<li>
+						<apparelDef>Anneli_YoRHa_TrenchCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_FurCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	
+					<li>
+						<apparelDef>Anneli_Jurnizia_TrenchCoat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Gakuen_Coat</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Parka</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_GorkaParka</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+					<li>
+						<apparelDef>Anneli_Jurnizia_CamoParka</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 
+					<li>
+						<apparelDef>Anneli_Jurnizia_Hoodie</apparelDef>
+						<level>1</level>
+						<path>Cropped_Apparels/Anneli_YoRHa_LongDressA_Cropped</path>
+					</li> 	 
+				</replaceTexPathList>
+			</li>
+		</comps>
 	</ThingDef>
 
 	<!--Anneli_YoRHa_LongDressB-->
