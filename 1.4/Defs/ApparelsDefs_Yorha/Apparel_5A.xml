@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_YoRHa_5A" ParentName="Anneli_5A" Abstract="True">
 		<equippedStatOffsets>
+			<MeleeHitChance>0.1</MeleeHitChance>
+			<MeleeDodgeChance>0.1</MeleeDodgeChance>
+			<ResearchSpeed>0.1</ResearchSpeed>
+			<HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">0.1</HackingSpeed>
+			<MechRepairSpeed MayRequire="Ludeon.RimWorld.Biotech">0.1</MechRepairSpeed>
+			<MedicalSurgerySuccessChance>0.1</MedicalSurgerySuccessChance>
+			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
+			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">2</MechBandwidth>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_YoRHa</li>
@@ -14,7 +22,7 @@
 		</recipeMaker>
 	</ThingDef>
 
-<!--Anneli_YoRHa_CloakA-->
+	<!--Anneli_YoRHa_CloakA-->
 	<ThingDef ParentName="Anneli_YoRHa_5A">
 		<defName>Anneli_YoRHa_CloakA</defName>
 		<description>Dyeable.</description>
@@ -47,7 +55,7 @@
 		<generateAllowChance>0.15</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
-<!--Anneli_YoRHa_CloakB-->
+	<!--Anneli_YoRHa_CloakB-->
 	<ThingDef ParentName="Anneli_YoRHa_5A">
 		<defName>Anneli_YoRHa_CloakB</defName>
 		<description>Dyeable.</description>

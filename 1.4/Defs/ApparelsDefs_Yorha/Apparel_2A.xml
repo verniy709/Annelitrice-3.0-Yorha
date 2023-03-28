@@ -3,6 +3,14 @@
 
 	<ThingDef Name="Anneli_YoRHa_2A" ParentName="Anneli_2A" Abstract="True">
 		<equippedStatOffsets>
+			<MeleeHitChance>0.1</MeleeHitChance>
+			<MeleeDodgeChance>0.1</MeleeDodgeChance>
+			<ResearchSpeed>0.1</ResearchSpeed>
+			<HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">0.1</HackingSpeed>
+			<MechRepairSpeed MayRequire="Ludeon.RimWorld.Biotech">0.1</MechRepairSpeed>
+			<MedicalSurgerySuccessChance>0.1</MedicalSurgerySuccessChance>
+			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
+			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">2</MechBandwidth>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Category_Annelitrice_YoRHa</li>
@@ -17,7 +25,7 @@
 <!--Anneli_YoRHa_TopA-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_TopA</defName>
-		<description>Dyeable. Collar.</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_TopA</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_TopA</texPath>
@@ -46,7 +54,7 @@
 <!--Anneli_YoRHa_TopB-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_TopB</defName>
-		<description>Dyeable. Full.</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_TopB</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_TopB</texPath>
@@ -75,7 +83,7 @@
 <!--Anneli_YoRHa_TopC-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_TopC</defName>
-		<description>Dyeable. Collar.</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_TopC</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_TopC</texPath>
@@ -104,7 +112,7 @@
 <!--Anneli_YoRHa_TopD-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_TopD</defName>
-		<description>Dyeable. Full</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_TopD</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_TopD</texPath>
@@ -133,7 +141,7 @@
 <!--Anneli_YoRHa_HalfRobeA-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_HalfRobeA</defName>
-		<description>Dyeable. Bow tie.</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_HalfRobeA</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_HalfRobeA</texPath>
@@ -159,7 +167,7 @@
 <!--Anneli_YoRHa_HalfRobeB-->
 	<ThingDef ParentName="Anneli_YoRHa_2A">
 		<defName>Anneli_YoRHa_HalfRobeB</defName>
-		<description>Dyeable. Necktie.</description>
+		<description>Dyeable.</description>
 		<label>(YoRHa)2A_HalfRobeB</label>
 		<graphicData>
 			<texPath>2A/Anneli_YoRHa_HalfRobeB</texPath>
