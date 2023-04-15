@@ -6,7 +6,7 @@
       <mods><li>Annelitrice 3.0</li></mods>
       <match Class="PatchOperationAdd">
         <success>Always</success>
-        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/alienRace/raceRestriction/apparelList</xpath>        
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[@Name="Anneli_BasePawn"]/alienRace/raceRestriction/apparelList</xpath>        
         <value>
            <li>Anneli_YoRHa_CurtainA</li>
            <li>Anneli_YoRHa_CurtainB</li>

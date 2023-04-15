@@ -174,7 +174,7 @@
 	</ThingDef>
 
 	<!--Anneli_YoRHa_RibbonedHat-->
-	<ThingDef ParentName="Anneli_YoRHa_6A_Metal">
+	<ThingDef ParentName="Anneli_YoRHa_6A_NonMetal">
 		<defName>Anneli_YoRHa_RibbonedHat</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)6A_RibbonedHat</label>
@@ -201,7 +201,7 @@
 	</ThingDef>	
 
 	<!--Anneli_YoRHa_Headband-->
-	<ThingDef ParentName="Anneli_YoRHa_6A_Metal">
+	<ThingDef ParentName="Anneli_YoRHa_6A_NonMetal">
 		<defName>Anneli_YoRHa_Headband</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)6A_Headband</label>
@@ -234,7 +234,7 @@
 	</ThingDef>	
 
 	<!--Anneli_YoRHa_Hairband-->
-	<ThingDef ParentName="Anneli_YoRHa_6A_Metal">
+	<ThingDef ParentName="Anneli_YoRHa_6A_NonMetal">
 		<defName>Anneli_YoRHa_Hairband</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)6A_Hairband</label>
@@ -308,7 +308,7 @@
 	</ThingDef>
 
 	<!--Anneli_YoRHa_Headwear-->
-	<ThingDef ParentName="Anneli_YoRHa_6A_NonMetal">
+	<ThingDef ParentName="Anneli_YoRHa_6A_Metal">
 		<defName>Anneli_YoRHa_Headwear</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)6A_Headwear</label>
@@ -334,7 +334,7 @@
 	</ThingDef>
 
 	<!--Anneli_YoRHa_ConicalHat-->
-	<ThingDef ParentName="Anneli_YoRHa_6A_NonMetal">
+	<ThingDef ParentName="Anneli_YoRHa_6A_Metal">
 		<defName>Anneli_YoRHa_ConicalHat</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)6A_ConicalHat</label>
