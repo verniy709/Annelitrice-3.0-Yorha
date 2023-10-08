@@ -102,6 +102,11 @@
 			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
 		</statBases>
 		<tickerType>Normal</tickerType><!--tickerType-->
 		<verbs>
@@ -110,18 +115,13 @@
 				<label>POD</label>
 				<defaultProjectile>Anneli_YoRHa_POD_Bullet</defaultProjectile>
 				<warmupTime>2.0</warmupTime>
-				<range>30.9</range>
+				<range>31.9</range>
 				<burstShotCount>20</burstShotCount>
 				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
 				<soundCast>Anneli_YoRHa_POD_Sound</soundCast>
 				<soundCastTail>GunTail_Medium</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
-				<accuracyTouch>0.75</accuracyTouch>
-				<accuracyShort>0.85</accuracyShort>
-				<accuracyMedium>0.85</accuracyMedium>
-				<accuracyLong>0.65</accuracyLong>
-				<defaultCooldownTime>2.0</defaultCooldownTime>
-				<commandIcon>8B/Anneli_YoRHa_POD</commandIcon>
+				<hasStandardCommand>true</hasStandardCommand>
 			</li>
 		</verbs>
 		<comps>
@@ -132,6 +132,15 @@
 						<draw>false</draw>
 						<description>POD.</description>
 						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
 					</li>
 				</verbProps>
 			</li>
@@ -216,27 +225,26 @@
 			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
 		</statBases>
 		<tickerType>Normal</tickerType><!--tickerType-->
 		<verbs>
 			<li>
 				<verbClass>Verb_Shoot</verbClass>
 				<label>Grimore</label>
-				<hasStandardCommand>true</hasStandardCommand>
 				<defaultProjectile>Anneli_YoRHa_Grimore_Bullet</defaultProjectile>
 				<warmupTime>2.0</warmupTime>
-				<range>30.9</range>
+				<range>31.9</range>
 				<burstShotCount>20</burstShotCount>
 				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
 				<soundCast>Anneli_YoRHa_Grimore_Sound</soundCast>
 				<soundCastTail>GunTail_Medium</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
-				<accuracyTouch>0.75</accuracyTouch>
-				<accuracyShort>0.85</accuracyShort>
-				<accuracyMedium>0.85</accuracyMedium>
-				<accuracyLong>0.65</accuracyLong>
-				<defaultCooldownTime>2.0</defaultCooldownTime>
-				<commandIcon>8B/Anneli_YoRHa_Grimore</commandIcon>
+				<hasStandardCommand>true</hasStandardCommand>
 			</li>
 		</verbs>
 		<comps>
@@ -247,6 +255,15 @@
 						<draw>false</draw>
 						<description>Grimore.</description>
 						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
 					</li>
 				</verbProps>
 			</li>
@@ -329,6 +346,7 @@
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
+
 		<statBases>
 			<WorkToMake>1000</WorkToMake>
 			<Mass>2</Mass>
@@ -337,27 +355,26 @@
 			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
 			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
+			<AccuracyTouch>0.6</AccuracyTouch>
+			<AccuracyShort>0.7</AccuracyShort>
+			<AccuracyMedium>0.8</AccuracyMedium>
+			<AccuracyLong>0.5</AccuracyLong>
+			<RangedWeapon_Cooldown>3.0</RangedWeapon_Cooldown>
 		</statBases>
 		<tickerType>Normal</tickerType><!--tickerType-->
 		<verbs>
 			<li>
 				<verbClass>Verb_Shoot</verbClass>
 				<label>Machine</label>
-				<hasStandardCommand>true</hasStandardCommand>
 				<defaultProjectile>Anneli_YoRHa_Machine_Bullet</defaultProjectile>
 				<warmupTime>2.0</warmupTime>
-				<range>30.9</range>
+				<range>31.9</range>
 				<burstShotCount>20</burstShotCount>
 				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
 				<soundCast>Anneli_YoRHa_Machine_Sound</soundCast>
 				<soundCastTail>GunTail_Medium</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
-				<accuracyTouch>0.75</accuracyTouch>
-				<accuracyShort>0.85</accuracyShort>
-				<accuracyMedium>0.85</accuracyMedium>
-				<accuracyLong>0.65</accuracyLong>
-				<defaultCooldownTime>2.0</defaultCooldownTime>
-				<commandIcon>8B/Anneli_YoRHa_Machine</commandIcon>
+				<hasStandardCommand>true</hasStandardCommand>
 			</li>
 		</verbs>
 		<comps>
@@ -368,6 +385,15 @@
 						<draw>false</draw>
 						<description>Machine.</description>
 						<canBeToggled>true</canBeToggled>
+						<comps>
+							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
+								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
+								<graphic>
+									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+								</graphic>
+							</li>
+						</comps>
 					</li>
 				</verbProps>
 			</li>
