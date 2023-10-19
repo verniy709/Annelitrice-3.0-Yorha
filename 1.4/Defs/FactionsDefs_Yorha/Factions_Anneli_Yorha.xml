@@ -5,6 +5,9 @@
 		<defName>Anneli_Faction_YoRHa</defName>
 		<label>Anneli Faction YoRHa Butai</label>
 		<description>A group of annelitrice who claim to be androids, but still sleep, consume food, and battle other so-called evil mechanoids. They strive to protect human colonies from the threats of evil mechanoids, positioning themselves as saviors. However, rumors persist that the YoRHa annelitrice are capturing survivors amid chaos. Their goal is to transform humanoids into mechanoids and use them to stage more attacks.\n\nIn reality, the YoRHa annelitrice are collecting footage for a movie that depicts an unending war between machine and organic beings. Inspired by an ancient work, an unknown movie producer had an uncontrollable urge to express the philosophy of love, death, and androids in a new film. The producer explored the idea of whether an android could become human with enough biological components. The resulting movie portrayed an eternal war between androids who pretended to be flesh-and-blood creatures and Cyborg humans who pretended to be machines. The film became a hit due to its sexually alluring actresses and extreme visual violence. However, movie critics criticized the supposed philosophy, calling it trite, shallow and pedantic.</description>
+		<colorSpectrum>
+			<li>(1, 1, 1)</li>
+		</colorSpectrum>
 		<pawnSingular>Annelitrice</pawnSingular>
 		<pawnsPlural>Annelitrice</pawnsPlural>
 		<fixedName>Forged YoRHa Butai</fixedName>
