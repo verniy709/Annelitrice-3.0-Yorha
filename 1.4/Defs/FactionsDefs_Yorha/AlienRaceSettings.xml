@@ -37,7 +37,31 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Attacker_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Attacker_C</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Battler</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Battler_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Battler_C</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -55,13 +79,37 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Executioner_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Executioner_C</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Gunner</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Gunner_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Healer</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Healer_B</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -83,77 +131,125 @@
 				<li>
 					<pawnKindEntries>
 						<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Flower</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Nier</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Kaine</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Commander</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Attacker</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Battler</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Defender</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Executioner</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Gunner</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Healer</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Operator</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Scanner</li>
-					</kindDefs>
-					<chance>1</chance>
-				</li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Flower</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Nier</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Kaine</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Commander</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker_B</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker_C</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler_B</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler_C</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Defender</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner_B</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner_C</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Gunner</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Gunner_B</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Healer</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Healer_B</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Operator</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Scanner</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
 					</pawnKindEntries>
 					<factionDefs>
 						<li>Anneli_Faction_Player</li> 
@@ -194,7 +290,31 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Attacker_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Attacker_C</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Battler</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Battler_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Battler_C</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -212,13 +332,37 @@
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Executioner_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Executioner_C</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Gunner</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
+						<li>Anneli_YoRHa_Gunner_B</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
 						<li>Anneli_YoRHa_Healer</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_Healer_B</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -240,77 +384,125 @@
 				<li>
 					<pawnKindEntries>
 						<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Flower</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Nier</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Copied_Kaine</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Commander</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Attacker</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Battler</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Defender</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Executioner</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Gunner</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Healer</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Operator</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
-				<li>
-					<kindDefs>
-						<li>Anneli_YoRHa_Scanner</li>
-					</kindDefs>
-					<chance>100</chance>
-				</li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Flower</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Nier</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Copied_Kaine</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Commander</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker_B</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Attacker_C</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler_B</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Battler_C</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Defender</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner_B</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Executioner_C</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Gunner</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Gunner_B</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Healer</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Healer_B</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Operator</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_Scanner</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
 					</pawnKindEntries>
 					<factionDefs>
 						<li>Anneli_Faction_Player</li>

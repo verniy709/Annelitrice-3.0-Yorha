@@ -20,7 +20,7 @@
 		</techHediffsTags>
 		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
 		<gearHealthRange>
-			<min>0.4</min>
+			<min>1.0</min>
 			<max>2.0</max>
 		</gearHealthRange>
 		<inventoryOptions>
@@ -51,17 +51,15 @@
 	<li>Anneli_YoRHa_Operator</li>
 	<li>Anneli_YoRHa_Scanner</li> -->
 
-	<!-- Pawn spawn apparel:
-	Battler=Executioner
-	Defender=Operator
-	Gunner=Scanner -->
-
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Leader</defName>
 		<label>YoRHa_Copied_Gestalt</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressD</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -80,6 +78,9 @@
 		<label>YoRHa_Copied_Flower</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressD</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -98,6 +99,10 @@
 		<label>YoRHa_Copied_Nier</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_Pants_White</li>
+			<li>Anneli_YoRHa_DestroyerCoat</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -116,6 +121,9 @@
 		<label>YoRHa_Copied_Kaine</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LingerieA</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -134,6 +142,9 @@
 		<label>YoRHa_Commander</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB_White</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -152,6 +163,54 @@
 		<label>YoRHa_Attacker</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainA</li>
+			<li>Anneli_YoRHa_Hipster</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Attacker_B</defName>
+		<label>YoRHa_Attacker</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainB</li>
+			<li>Anneli_YoRHa_Thong</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Attacker_C</defName>
+		<label>YoRHa_Attacker</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainC</li>
+			<li>Anneli_YoRHa_Underwear</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -170,6 +229,51 @@
 		<label>YoRHa_Battler</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Battler_B</defName>
+		<label>YoRHa_Battler</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Battler_C</defName>
+		<label>YoRHa_Battler</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressC</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -188,6 +292,10 @@
 		<label>YoRHa_Defender</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopB</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -206,6 +314,51 @@
 		<label>YoRHa_Executioner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Executioner_B</defName>
+		<label>YoRHa_Executioner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefense</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Executioner_C</defName>
+		<label>YoRHa_Executioner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressC</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefense</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -224,6 +377,33 @@
 		<label>YoRHa_Gunner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopA</li>
+			<li>Anneli_YoRHa_SkirtA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Gunner_B</defName>
+		<label>YoRHa_Gunner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopD</li>
+			<li>Anneli_YoRHa_SkirtB</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -243,6 +423,30 @@
 		<label>YoRHa_Healer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>SimpleGun</li>
+			<li>Revolver</li>
+			<li>IndustrialGunAdvanced</li>
+			<li>GunHeavy</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_Healer_B</defName>
+		<label>YoRHa_Healer</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeB</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Healer</li>
@@ -261,6 +465,9 @@
 		<label>YoRHa_Operator</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CombatSuit</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -280,6 +487,10 @@
 		<label>YoRHa_Scanner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopC</li>
+			<li>Anneli_YoRHa_Shorts</li>
+		</apparelRequired>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -292,7 +503,4 @@
 			<li>UltratechMelee</li>
 		</weaponTags>
 	</PawnKindDef>
-
-	
-
 </Defs>

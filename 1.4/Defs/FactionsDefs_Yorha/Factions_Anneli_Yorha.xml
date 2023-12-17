@@ -73,26 +73,44 @@
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
 					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
 					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
-					<Anneli_YoRHa_Commander>5</Anneli_YoRHa_Commander>
-					<Anneli_YoRHa_Attacker>10</Anneli_YoRHa_Attacker>
-					<Anneli_YoRHa_Battler>5</Anneli_YoRHa_Battler>
-					<Anneli_YoRHa_Defender>5</Anneli_YoRHa_Defender>
-					<Anneli_YoRHa_Executioner>5</Anneli_YoRHa_Executioner>
-					<Anneli_YoRHa_Gunner>5</Anneli_YoRHa_Gunner>
-					<Anneli_YoRHa_Healer>5</Anneli_YoRHa_Healer>
-					<Anneli_YoRHa_Operator>5</Anneli_YoRHa_Operator>
-					<Anneli_YoRHa_Scanner>5</Anneli_YoRHa_Scanner>
+					<Anneli_YoRHa_Commander>3</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>3</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>3</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>3</Anneli_YoRHa_Attacker_C>
+					<Anneli_YoRHa_Battler>2</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>2</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>2</Anneli_YoRHa_Battler_C>
+					<Anneli_YoRHa_Defender>3</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>2</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>2</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>2</Anneli_YoRHa_Executioner_C>
+					<Anneli_YoRHa_Gunner>3</Anneli_YoRHa_Gunner>
+					<Anneli_YoRHa_Healer>2</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>2</Anneli_YoRHa_Healer_B>
+					<Anneli_YoRHa_Operator>3</Anneli_YoRHa_Operator>
+					<Anneli_YoRHa_Scanner>3</Anneli_YoRHa_Scanner>
 				</options>
 			</li>
 			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</options>
@@ -109,11 +127,23 @@
 					<Elephant>2</Elephant>
 				</carriers>
 				<guards>
+					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</guards>
@@ -122,18 +152,25 @@
 				<kindDef>Settlement</kindDef>
 				<options>
 					<Anneli_YoRHa_Leader>1</Anneli_YoRHa_Leader>
-					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
-					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
-					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
-					<Anneli_YoRHa_Commander>5</Anneli_YoRHa_Commander>
-					<Anneli_YoRHa_Attacker>10</Anneli_YoRHa_Attacker>
-					<Anneli_YoRHa_Battler>5</Anneli_YoRHa_Battler>
-					<Anneli_YoRHa_Defender>5</Anneli_YoRHa_Defender>
-					<Anneli_YoRHa_Executioner>5</Anneli_YoRHa_Executioner>
-					<Anneli_YoRHa_Gunner>5</Anneli_YoRHa_Gunner>
-					<Anneli_YoRHa_Healer>5</Anneli_YoRHa_Healer>
-					<Anneli_YoRHa_Operator>5</Anneli_YoRHa_Operator>
-					<Anneli_YoRHa_Scanner>5</Anneli_YoRHa_Scanner>
+					<Anneli_YoRHa_Copied_Flower>2</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>2</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>2</Anneli_YoRHa_Copied_Kaine>
+					<Anneli_YoRHa_Commander>3</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>3</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>3</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>3</Anneli_YoRHa_Attacker_C>
+					<Anneli_YoRHa_Battler>2</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>2</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>2</Anneli_YoRHa_Battler_C>
+					<Anneli_YoRHa_Defender>3</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>2</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>2</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>2</Anneli_YoRHa_Executioner_C>
+					<Anneli_YoRHa_Gunner>3</Anneli_YoRHa_Gunner>
+					<Anneli_YoRHa_Healer>2</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>2</Anneli_YoRHa_Healer_B>
+					<Anneli_YoRHa_Operator>3</Anneli_YoRHa_Operator>
+					<Anneli_YoRHa_Scanner>3</Anneli_YoRHa_Scanner>
 				</options>
 			</li>
 			<li MayRequire="Ludeon.RimWorld.Ideology">
@@ -141,11 +178,22 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</options>
@@ -154,12 +202,23 @@
 				<kindDef>Hunters</kindDef>
 				<commonality>1</commonality>
 				<options>
-					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Flower>2</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>2</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>2</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</options>
@@ -169,11 +228,22 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</options>
@@ -183,11 +253,22 @@
 				<commonality>1</commonality>
 				<options>
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
+					<Anneli_YoRHa_Copied_Nier>1</Anneli_YoRHa_Copied_Nier>
+					<Anneli_YoRHa_Copied_Kaine>1</Anneli_YoRHa_Copied_Kaine>
 					<Anneli_YoRHa_Commander>1</Anneli_YoRHa_Commander>
+					<Anneli_YoRHa_Attacker>1</Anneli_YoRHa_Attacker>
+					<Anneli_YoRHa_Attacker_B>1</Anneli_YoRHa_Attacker_B>
+					<Anneli_YoRHa_Attacker_C>1</Anneli_YoRHa_Attacker_C>
 					<Anneli_YoRHa_Battler>1</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>1</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>1</Anneli_YoRHa_Battler_C>
 					<Anneli_YoRHa_Defender>1</Anneli_YoRHa_Defender>
+					<Anneli_YoRHa_Executioner>1</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>1</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>1</Anneli_YoRHa_Executioner_C>
 					<Anneli_YoRHa_Gunner>1</Anneli_YoRHa_Gunner>
 					<Anneli_YoRHa_Healer>1</Anneli_YoRHa_Healer>
+					<Anneli_YoRHa_Healer_B>1</Anneli_YoRHa_Healer_B>
 					<Anneli_YoRHa_Operator>1</Anneli_YoRHa_Operator>
 					<Anneli_YoRHa_Scanner>1</Anneli_YoRHa_Scanner>
 				</options>

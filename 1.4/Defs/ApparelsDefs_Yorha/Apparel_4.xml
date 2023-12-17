@@ -36,7 +36,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_YoRHa_ArmorVest-->

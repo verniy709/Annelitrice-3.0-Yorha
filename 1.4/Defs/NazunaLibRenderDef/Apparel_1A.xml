@@ -74,7 +74,7 @@
 					<li>Anneli_Arm_YoRHaLTS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel1A_YoRHaLTS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel1_YoRHaLTS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 2.21935, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, -0.032, 0)</drawOffsetEast>
@@ -91,7 +91,7 @@
 					<li>Anneli_Arm_YoRHaLTS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel1A_YoRHaLTS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel1_YoRHaLTS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>

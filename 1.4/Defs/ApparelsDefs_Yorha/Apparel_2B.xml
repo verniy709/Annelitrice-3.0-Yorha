@@ -243,6 +243,7 @@
 		<apparel>
 			<wornGraphicPath>2B/Anneli_YoRHa_Miniskirt</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Gunner</li>
@@ -258,6 +259,7 @@
 				</li>
 			</options>
 		</colorGenerator>
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>
