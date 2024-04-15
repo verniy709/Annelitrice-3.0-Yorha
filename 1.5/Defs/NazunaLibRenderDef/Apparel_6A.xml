@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_FlatCap</defName>
+		<originalDef>Anneli_YoRHa_FlatCap</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_FlatCap</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_Beret</defName>
+		<originalDef>Anneli_YoRHa_Beret</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_Beret</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_SideCap</defName>
+		<originalDef>Anneli_YoRHa_SideCap</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_SideCap</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_Hood</defName>
+		<originalDef>Anneli_YoRHa_Hood</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_Hood</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<hideList>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+				</hideList>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_RibbonedHat</defName>
+		<originalDef>Anneli_YoRHa_RibbonedHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_RibbonedHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_RibbonHairband</defName>
+		<originalDef>Anneli_YoRHa_RibbonHairband</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_RibbonHairband</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_Headband</defName>
+		<originalDef>Anneli_YoRHa_Headband</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_Headband</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_Hairband</defName>
+		<originalDef>Anneli_YoRHa_Hairband</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_Hairband</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_FlowerAccessory</defName>
+		<originalDef>Anneli_YoRHa_FlowerAccessory</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_FlowerAccessory</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_Headwear</defName>
+		<originalDef>Anneli_YoRHa_Headwear</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_Headwear</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+	<NareisLib.MultiTexDef>
+		<defName>Anneli_YoRHa_ConicalHat</defName>
+		<originalDef>Anneli_YoRHa_ConicalHat</originalDef>
+		<originalDefClass>ThingDef</originalDefClass>
+		<renderOriginTex>false</renderOriginTex>
+		<path>6A/</path>
+		<levels>
+			<li>
+				<prefix>
+					<li>Anneli_YoRHa_ConicalHat</li>
+				</prefix>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6A</textureLevelsName>
+				<drawOffsetSouth>(0, 1.0, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.0, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.0, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.0, 0)</drawOffsetWest>
+				<meshType>Head</meshType>
+				<hideList>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_BackHair</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_FlatD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_BraidA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_LongE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_ShortE_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedA_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedB_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedC_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+					<li>
+						<defLevelName>Anneli_HairCombo_TiedD_Anneli_Ahoge</defLevelName>
+						<hide>true</hide>
+					</li>
+				</hideList>
+			</li>
+		</levels>
+	</NareisLib.MultiTexDef>
+
+</Defs>
