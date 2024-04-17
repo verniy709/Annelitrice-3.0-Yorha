@@ -104,11 +104,14 @@
 		</statBases>
 		<tickerType>Normal</tickerType>
 		<comps>
-			<li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Music_Serene</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
-            </li>
+			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
+				<hediff>Anneli_Music_Serene</hediff>
+				<range>21.9</range>
+				<canTargetSelf>true</canTargetSelf>
+				<drawLines>false</drawLines>
+				<ignoreMechs>true</ignoreMechs>
+				<checkInterval>500</checkInterval>
+			</li>
 			<li Class="Annelitrice.CompProperties_PlayMusic">
 				<soundDefs>
 					<li>Anneli_MusicBoxA</li>
@@ -171,11 +174,14 @@
 		</colorGenerator>
 		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
 		<comps>
-			<li Class="Annelitrice.CompProperties_ApparelHediffGiver">
-                <hediffDef>Anneli_Aura_Trustworthiness</hediffDef>        
-                <severityIncrease>0.2</severityIncrease>  
-                <radius>15</radius>                         
-            </li>
+			<li Class="Annelitrice.CompProperties_ApparelCauseHediff_AoE">
+				<hediff>Anneli_Aura_Trustworthiness</hediff>
+				<range>21.9</range>
+				<canTargetSelf>true</canTargetSelf>
+				<drawLines>false</drawLines>
+				<ignoreMechs>true</ignoreMechs>
+				<checkInterval>500</checkInterval>
+			</li>
 		</comps>
 	</ThingDef>
 
