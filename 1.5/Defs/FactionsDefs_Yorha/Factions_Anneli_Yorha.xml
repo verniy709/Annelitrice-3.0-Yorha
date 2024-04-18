@@ -34,10 +34,14 @@
 		<leaderTitle>Gestalt</leaderTitle>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
 		<settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
-		<backstoryCategories>
-			<li>Anneli_Childhood</li>
-			<li>Anneli_Story_YoRHa</li>
-		</backstoryCategories>
+		<backstoryFilters>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_YoRHa</li>
+				</categories>
+			</li>
+		</backstoryFilters>
 		<maxPawnCostPerTotalPointsCurve>
 			<points>
 				<li>(0, 200)</li> 
