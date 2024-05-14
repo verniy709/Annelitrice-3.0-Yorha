@@ -13,24 +13,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
-				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.09065, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticYOffset>true</useStaticYOffset>
-				<useBodyType>true</useBodyType>
-			</li>
-			<li>
-				<prefix>
-					<li>Anneli_Back_YoRHa_Bag</li>
-				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.09065, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 69, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 69, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 69, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 69, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -51,24 +37,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel7</textureLevelsName>
-				<drawOffsetSouth>(0, 2.09065, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.09065, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
-				<meshType>Body</meshType>
-				<useStaticYOffset>true</useStaticYOffset>
-				<useBodyType>true</useBodyType>
-			</li>
-			<li>
-				<prefix>
-					<li>Anneli_Back_YoRHa_OxidantTank</li>
-				</prefix>
-				<renderLayer>BottomShell</renderLayer>
-				<textureLevelsName>Anneli_BottomShell7</textureLevelsName>
-				<drawOffsetSouth>(0, -0.232, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.09065, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.09065, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.09065, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 58, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 58, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 58, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 58, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>

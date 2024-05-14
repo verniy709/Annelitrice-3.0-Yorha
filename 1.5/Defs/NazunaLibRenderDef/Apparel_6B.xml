@@ -11,12 +11,12 @@
 				<prefix>
 					<li>Anneli_YoRHa_EyeMaskA</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
-				<textureLevelsName>Anneli_FaceMask6B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.1, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.1, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.1, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.1, 0)</drawOffsetWest>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 84, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 84, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 84, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 84, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -33,12 +33,12 @@
 				<prefix>
 					<li>Anneli_YoRHa_EyeMaskB</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
-				<textureLevelsName>Anneli_FaceMask6B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.1, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.1, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.1, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.1, 0)</drawOffsetWest>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 84, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 84, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 84, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 84, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -55,12 +55,12 @@
 				<prefix>
 					<li>Anneli_YoRHa_EyeMaskC</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
-				<textureLevelsName>Anneli_FaceMask6B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.1, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.1, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.1, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.1, 0)</drawOffsetWest>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 84, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 84, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 84, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 84, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -77,12 +77,12 @@
 				<prefix>
 					<li>Anneli_YoRHa_Flower</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
-				<textureLevelsName>Anneli_FaceMask6B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.1, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.1, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.1, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.1, 0)</drawOffsetWest>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 84, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 84, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 84, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 84, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
@@ -99,12 +99,12 @@
 				<prefix>
 					<li>Anneli_YoRHa_SqureGlasses</li>
 				</prefix>
-				<renderLayer>FaceMask</renderLayer>
-				<textureLevelsName>Anneli_FaceMask6B</textureLevelsName>
-				<drawOffsetSouth>(0, 0.1, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 0.1, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 0.1, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 0.1, 0)</drawOffsetWest>
+				<renderLayer>Hat</renderLayer>
+				<textureLevelsName>Anneli_Hat6B</textureLevelsName>
+				<drawOffsetSouth>(0, 84, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 84, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 84, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 84, 0)</drawOffsetWest>
 				<meshType>Head</meshType>
 			</li>
 		</levels>
