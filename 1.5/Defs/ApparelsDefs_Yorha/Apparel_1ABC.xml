@@ -6,7 +6,7 @@
 			<MentalBreakThreshold>-0.2</MentalBreakThreshold>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_YoRHa</li>
+			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -75,7 +75,7 @@
 			<useIngredientsForColor>false</useIngredientsForColor>
     	</recipeMaker>
     	<thingCategories Inherit="False">
-			<li>Category_Annelitrice_YoRHa_Dyed</li>
+			<li>Anneli_Category_YoRHa_Dyed</li>
 		</thingCategories>
 	</ThingDef>
 

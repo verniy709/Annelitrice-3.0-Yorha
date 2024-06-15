@@ -2,14 +2,14 @@
 <Defs>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_YoRHa</defName>
+		<defName>Anneli_Category_YoRHa</defName>
 		<parent>Apparel</parent>
 		<label>Annelitrice YoRHa Apparels</label>
 	</ThingCategoryDef>
 
 	<ThingCategoryDef>
-		<defName>Category_Annelitrice_YoRHa_Dyed</defName>
-		<parent>Category_Annelitrice_YoRHa</parent>
+		<defName>Anneli_Category_YoRHa_Dyed</defName>
+		<parent>Anneli_Category_YoRHa</parent>
 		<label>Pawn Spawn YoRHa Apparels</label>
 	</ThingCategoryDef>
 	

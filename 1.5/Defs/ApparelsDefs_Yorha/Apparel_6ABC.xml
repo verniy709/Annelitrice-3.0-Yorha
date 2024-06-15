@@ -8,7 +8,7 @@
 			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">8</MechBandwidth>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_YoRHa</li>
+			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
@@ -24,7 +24,7 @@
 			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">8</MechBandwidth>
 		</equippedStatOffsets>
 		<thingCategories>
-			<li>Category_Annelitrice_YoRHa</li>
+			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>
 		<recipeMaker>
 			<recipeUsers>
