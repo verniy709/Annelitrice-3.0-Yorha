@@ -396,6 +396,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
+			<li>SpacerGun</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -419,6 +420,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
+			<li>SpacerGun</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -440,6 +442,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
+			<li>SpacerGun</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -461,6 +464,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
+			<li>SpacerGun</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -483,6 +487,7 @@
 			<li>Revolver</li>
 			<li>IndustrialGunAdvanced</li>
 			<li>GunHeavy</li>
+			<li>SpacerGun</li>
 		</weaponTags>
 	</PawnKindDef>
 
