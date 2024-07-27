@@ -25,7 +25,7 @@
 		<settlementTexturePath>Anneli_Factions/Anneli_YoRHa</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_YoRHa</factionIconPath>
 		<listOrderPriority>30</listOrderPriority>
-		<settlementGenerationWeight>0.5</settlementGenerationWeight>
+		<settlementGenerationWeight>1</settlementGenerationWeight>
 		<requiredCountAtGameStart>1</requiredCountAtGameStart>
 		<maxCountAtGameStart>1</maxCountAtGameStart>
 		<canMakeRandomly>true</canMakeRandomly>
