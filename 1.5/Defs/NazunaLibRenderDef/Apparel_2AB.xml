@@ -163,6 +163,7 @@
 				<drawOffsetEast>(0, 27, 0)</drawOffsetEast>
 				<drawOffsetNorth>(0, 27, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 27, 0)</drawOffsetWest>
+				<renderSwitch>(1, 0, 0)</renderSwitch>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
