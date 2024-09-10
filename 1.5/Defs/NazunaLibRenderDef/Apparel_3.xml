@@ -13,10 +13,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -37,10 +37,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -52,10 +52,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LLS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -71,10 +71,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -97,10 +97,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -112,10 +112,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LLS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -131,10 +131,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -157,10 +157,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -181,10 +181,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -196,10 +196,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LLS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -215,10 +215,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -241,10 +241,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -256,10 +256,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -275,10 +275,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -301,10 +301,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -316,10 +316,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -335,10 +335,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -361,10 +361,10 @@
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3</textureLevelsName>
-				<drawOffsetSouth>(0, 2.500, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 2.500, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 2.500, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 2.500, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.481, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.481, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.481, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.481, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
@@ -376,10 +376,10 @@
 				<renderLayer>Apparel</renderLayer>
 				<textureLevelsName>Anneli_Apparel3_LCS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 1.000, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 3.038, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 0.500, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 1.750, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>
@@ -395,10 +395,10 @@
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
-				<drawOffsetSouth>(0, 3.038, 0)</drawOffsetSouth>
-				<drawOffsetEast>(0, 3.038, 0)</drawOffsetEast>
-				<drawOffsetNorth>(0, 3.038, 0)</drawOffsetNorth>
-				<drawOffsetWest>(0, 1.000, 0)</drawOffsetWest>
+				<drawOffsetSouth>(0, 1.750, 0)</drawOffsetSouth>
+				<drawOffsetEast>(0, 1.750, 0)</drawOffsetEast>
+				<drawOffsetNorth>(0, 1.750, 0)</drawOffsetNorth>
+				<drawOffsetWest>(0, 0.500, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
 				<isSleeve>true</isSleeve>
 				<actionManager>

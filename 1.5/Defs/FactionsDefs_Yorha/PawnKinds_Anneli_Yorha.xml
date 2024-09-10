@@ -6,7 +6,7 @@
 		<itemQuality>Masterwork</itemQuality>
 		<defaultFactionType>Anneli_Faction_YoRHa</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>240</combatPower>
+		<combatPower>220</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>
@@ -433,6 +433,7 @@
 			<li>Anneli_YoRHa_HalfRobeA</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Healer</li>
 		</apparelTags>
@@ -455,6 +456,7 @@
 			<li>Anneli_YoRHa_HalfRobeB</li>
 		</apparelRequired>
 		<apparelTags>
+			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Healer</li>
 		</apparelTags>
