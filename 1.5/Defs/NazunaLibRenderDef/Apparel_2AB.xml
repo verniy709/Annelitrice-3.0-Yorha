@@ -20,6 +20,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Middle</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -38,6 +39,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LBS_Left</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -58,6 +60,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LBS_Right</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -154,6 +157,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Middle</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -169,6 +173,7 @@
 				<meshType>Body</meshType>
 				<useStaticYOffset>true</useStaticYOffset>
 				<useBodyType>true</useBodyType>
+				<skipFlag>Anneli_Middle</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -211,6 +216,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -231,6 +237,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
@@ -273,6 +280,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Left</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -293,6 +301,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LS_Right</def>
 				</actionManager>
+				<skipFlag>Anneli_SleeveB_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
