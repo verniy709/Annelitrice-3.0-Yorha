@@ -81,6 +81,7 @@
 				<drawOffsetNorth>(0, 1.712, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 1.712, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_YoRHaLTS_Left</def>
@@ -100,6 +101,7 @@
 				<drawOffsetNorth>(0, 1.712, 0)</drawOffsetNorth>
 				<drawOffsetWest>(0, 0.462, 0)</drawOffsetWest>
 				<meshType>Body</meshType>
+				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_Arm_YoRHaLTS_Right</def>
