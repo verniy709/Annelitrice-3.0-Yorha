@@ -47,8 +47,16 @@
 			<tags>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_SkipHeadAddons</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_MiddleHair</li>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_FrontHair</li>
+				<li>Anneli_BackHair</li>
+				<li>Anneli_BackHair_Braid</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -74,8 +82,16 @@
 			<tags>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_SkipHeadAddons</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_MiddleHair</li>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_FrontHair</li>
+				<li>Anneli_BackHair</li>
+				<li>Anneli_BackHair_Braid</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>

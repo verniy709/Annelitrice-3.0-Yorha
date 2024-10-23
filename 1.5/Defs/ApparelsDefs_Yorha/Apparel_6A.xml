@@ -55,6 +55,10 @@
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -152,6 +156,10 @@
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
@@ -369,6 +377,10 @@
 				<li>Anneli_YoRHa_Gunner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+			<renderSkipFlags>
+				<li>Anneli_Ahoge</li>
+				<li>Anneli_BackHair</li>
+			</renderSkipFlags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
