@@ -53,6 +53,7 @@
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -154,6 +155,7 @@
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
@@ -348,6 +350,7 @@
 			<wornGraphicPath>6A/Anneli_YoRHa_Headwear</wornGraphicPath>
 			<tags>
 				<li>Anneli_YoRHa_Commander</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -375,6 +378,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_SkipOverhead</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 			<renderSkipFlags>
