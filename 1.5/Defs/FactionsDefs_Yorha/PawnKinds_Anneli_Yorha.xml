@@ -43,34 +43,21 @@
 		<xenotypeSet>
 			<xenotypeChances>
 				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.0</Anneli_Xenotype>
-				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
-				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Nekojin>
-				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Kitsune>
-				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
-				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Oni>
-				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Loong>
-				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Fairy>
-				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
-				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Hellion>
-				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
-				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Messenger>
 				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Abomination>
+				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
+				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Fairy>
+				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Hellion>
+				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Kitsune>
+				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Loong>
+				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Messenger>
+				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Nekojin>
+				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Oni>
+				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
+				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
 			</xenotypeChances>
 		</xenotypeSet>
 	</PawnKindDef>
-
-	<!-- <li>Anneli_YoRHa_Copied_Flower</li>
-	<li>Anneli_YoRHa_Copied_Nier</li>
-	<li>Anneli_YoRHa_Copied_Kaine</li>
-	<li>Anneli_YoRHa_Commander</li>
-	<li>Anneli_YoRHa_Attacker</li>
-	<li>Anneli_YoRHa_Battler</li>
-	<li>Anneli_YoRHa_Defender</li>
-	<li>Anneli_YoRHa_Executioner</li>
-	<li>Anneli_YoRHa_Gunner</li>
-	<li>Anneli_YoRHa_Healer</li>
-	<li>Anneli_YoRHa_Operator</li>
-	<li>Anneli_YoRHa_Scanner</li> -->
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Leader</defName>
