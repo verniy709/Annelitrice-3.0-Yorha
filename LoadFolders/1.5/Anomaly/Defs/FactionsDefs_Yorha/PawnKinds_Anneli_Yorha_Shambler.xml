@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef Name="Anneli_YoRHa_Shambler_KindBase" ParentName="Anneli_KindBase" Abstract="True">
+		<label>Anneli_Shambler</label>
+		<defaultFactionType>Entities</defaultFactionType>
+		<initialWillRange>0~1</initialWillRange>
+		<initialResistanceRange>7~12</initialResistanceRange>
+		<isGoodBreacher>true</isGoodBreacher>
+		<overrideDebugActionCategory>Entity</overrideDebugActionCategory>
+		<combatPower>60</combatPower>
+		<gearHealthRange>0.2~0.4</gearHealthRange>
+		<meleeAttackInfectionPathways>
+			<li>EntityAttacked</li>
+		</meleeAttackInfectionPathways>
+		<invNutrition>0</invNutrition>
+		<mutant>Shambler</mutant>
+		<generateInitialNonFamilyRelations>false</generateInitialNonFamilyRelations>
+		<itemQuality>Masterwork</itemQuality>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>Anneli_Childhood</li>
+					<li>Anneli_Story_YoRHa</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
+		<xenotypeSet>
+			<xenotypeChances>
+				<Anneli_Xenotype MayRequire="Ludeon.RimWorld.Biotech">1.5</Anneli_Xenotype>
+				<Anneli_Xenotype_Abomination MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Abomination>
+				<Anneli_Xenotype_Dragonkin MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Dragonkin>
+				<Anneli_Xenotype_Elf MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Elf>
+				<Anneli_Xenotype_Fairy MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Fairy>
+				<Anneli_Xenotype_Hellion MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Hellion>
+				<Anneli_Xenotype_Kitsune MayRequire="Ludeon.RimWorld.Biotech">0.2</Anneli_Xenotype_Kitsune>
+				<Anneli_Xenotype_Loong MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Loong>
+				<Anneli_Xenotype_Messenger MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Messenger>
+				<Anneli_Xenotype_Nekojin MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Nekojin>
+				<Anneli_Xenotype_Oni MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Oni>
+				<Anneli_Xenotype_Succubus MayRequire="Ludeon.RimWorld.Biotech">0.1</Anneli_Xenotype_Succubus>
+				<Anneli_Xenotype_Usagi MayRequire="Ludeon.RimWorld.Biotech">0.15</Anneli_Xenotype_Usagi>
+			</xenotypeChances>
+		</xenotypeSet>
+		<apparelDisallowTags>
+			<li>Anneli_ExcludeShambler</li>
+		</apparelDisallowTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Flower</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressD</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Flower</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Nier</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_Pants_White</li>
+			<li>Anneli_YoRHa_DestroyerCoat</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Nier</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Kaine</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LingerieA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Kaine</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Commander</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB_White</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Commander</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainA</li>
+			<li>Anneli_YoRHa_Hipster</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainB</li>
+			<li>Anneli_YoRHa_Thong</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainC</li>
+			<li>Anneli_YoRHa_Underwear</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressC</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Defender</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopB</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Defender</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressC</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Gunner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopA</li>
+			<li>Anneli_YoRHa_SkirtA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Gunner_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopD</li>
+			<li>Anneli_YoRHa_SkirtB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Healer</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Healer_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Operator</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CombatSuit</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Operator</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Scanner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopC</li>
+			<li>Anneli_YoRHa_Shorts</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Scanner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+</Defs>

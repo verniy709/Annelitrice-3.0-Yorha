@@ -74,6 +74,7 @@
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -201,6 +202,7 @@
 				<li>Anneli_YoRHa_Copied_Flower</li>
 				<li>Anneli_YoRHa_Copied_Nier</li>
 				<li>Anneli_YoRHa_Copied_Kaine</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -330,6 +332,7 @@
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_ExcludeShambler</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
