@@ -38,9 +38,9 @@
 
   <Anneli_YoRHa_Machine.label>(寄叶)8B_机器宝宝</Anneli_YoRHa_Machine.label>
   <Anneli_YoRHa_Machine.description>不可染色.</Anneli_YoRHa_Machine.description>
-  <Anneli_YoRHa_Machine.comps.0.verbProps.0.label>机械生命</Anneli_YoRHa_Machine.comps.0.verbProps.0.label>
-  <Anneli_YoRHa_Machine.comps.0.verbProps.0.description>机械生命.</Anneli_YoRHa_Machine.comps.0.verbProps.0.description>
-  <Anneli_YoRHa_Machine.verbs.0.label>机械生命</Anneli_YoRHa_Machine.verbs.0.label>
+  <Anneli_YoRHa_Machine.comps.0.verbProps.0.label>机器</Anneli_YoRHa_Machine.comps.0.verbProps.0.label>
+  <Anneli_YoRHa_Machine.comps.0.verbProps.0.description>机器.</Anneli_YoRHa_Machine.comps.0.verbProps.0.description>
+  <Anneli_YoRHa_Machine.verbs.0.label>机器</Anneli_YoRHa_Machine.verbs.0.label>
 
 
 </LanguageData>
