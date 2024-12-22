@@ -85,7 +85,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>1</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>
