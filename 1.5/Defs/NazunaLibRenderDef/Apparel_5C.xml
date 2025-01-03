@@ -71,10 +71,10 @@
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_YoRHa_GauntletsYoRHa_Left</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 			<li>
 				<prefix>
@@ -92,10 +92,10 @@
 				<meshType>Body</meshType>
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<useBodyType>true</useBodyType>
-				<!-- <isSleeve>true</isSleeve>
+				<isSleeve>true</isSleeve>
 				<actionManager>
 					<def>Anneli_YoRHa_GauntletsYoRHa_Right</def>
-				</actionManager> -->
+				</actionManager>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
