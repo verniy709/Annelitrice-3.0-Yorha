@@ -51,17 +51,13 @@
 					<weight>10</weight>
 					<only>(255,245,245,255)</only>
 				</li>
-				<li>
-					<weight>10</weight>
-					<only>(50,45,50,255)</only>
-				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.5</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_YoRHa_GauntletsYoRHa-->
-	<ThingDef ParentName="Anneli_5C_Metal">
+	<ThingDef ParentName="Anneli_YoRHa_5C_Metal">
 		<defName>Anneli_YoRHa_GauntletsYoRHa</defName>
 		<description>Dyeable.</description>
 		<label>(YoRHa)5C_Gauntlets</label>
@@ -85,7 +81,6 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>1</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 </Defs>

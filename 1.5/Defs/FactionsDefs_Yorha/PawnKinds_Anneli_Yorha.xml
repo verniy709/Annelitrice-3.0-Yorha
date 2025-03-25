@@ -186,6 +186,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -208,6 +221,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -230,6 +256,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -272,6 +311,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -357,6 +409,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -378,6 +443,19 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -495,6 +573,19 @@
 			<li>GunHeavy</li>
 			<li>SpacerGun</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -517,5 +608,18 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 	</PawnKindDef>
 </Defs>
