@@ -68,6 +68,19 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressD</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Socks</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -89,6 +102,19 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressD</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Socks</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -108,9 +134,22 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
-			<li>Anneli_YoRHa_Pants_White</li>
 			<li>Anneli_YoRHa_DestroyerCoat</li>
+			<li>Anneli_YoRHa_Pants</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -151,8 +190,43 @@
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
-			<li>Anneli_YoRHa_LongDressB_White</li>
+			<li>Anneli_YoRHa_LongDressB</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Middle</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_YoRHa_MaskA</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -513,7 +587,21 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_HalfRobeA</li>
+			<li>Anneli_YoRHa_Pants</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(150,60,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -536,7 +624,21 @@
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_HalfRobeB</li>
+			<li>Anneli_YoRHa_Shorts</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Shorts</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(150,60,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
