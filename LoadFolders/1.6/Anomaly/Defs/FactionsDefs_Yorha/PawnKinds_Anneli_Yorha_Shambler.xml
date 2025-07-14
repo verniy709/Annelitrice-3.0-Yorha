@@ -47,5 +47,458 @@
 		</apparelDisallowTags>
 	</PawnKindDef>
 
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Flower</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressD</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Socks</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Flower</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Nier</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DestroyerCoat</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Nier</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Copied_Kaine</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LingerieA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Copied_Kaine</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Commander</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelLayer>Middle</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<apparelDef>Anneli_YoRHa_MaskA</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Commander</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainA</li>
+			<li>Anneli_YoRHa_Hipster</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainB</li>
+			<li>Anneli_YoRHa_Thong</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Attacker_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CurtainC</li>
+			<li>Anneli_YoRHa_Underwear</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressB</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Battler_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_LongDressC</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Defender</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopB</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Defender</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressB</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Executioner_C</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressC</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Gunner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopA</li>
+			<li>Anneli_YoRHa_SkirtA</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Gunner_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopD</li>
+			<li>Anneli_YoRHa_SkirtB</li>
+		</apparelRequired>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Gunner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Healer</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeA</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(150,60,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Healer_B</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_HalfRobeB</li>
+			<li>Anneli_YoRHa_Shorts</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_Shorts</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(150,60,65,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Healer</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Operator</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_CombatSuit</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Operator</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_Shambler_KindBase">
+		<defName>Anneli_YoRHa_Shambler_Scanner</defName>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopC</li>
+			<li>Anneli_YoRHa_Shorts</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Scanner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+	</PawnKindDef>
 
 </Defs>

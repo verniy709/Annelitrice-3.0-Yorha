@@ -249,17 +249,6 @@
 			<li>Anneli_YoRHa_CurtainA</li>
 			<li>Anneli_YoRHa_Hipster</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Attacker</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -273,6 +262,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -284,17 +284,6 @@
 			<li>Anneli_YoRHa_CurtainB</li>
 			<li>Anneli_YoRHa_Thong</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Attacker</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -308,6 +297,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -319,17 +319,6 @@
 			<li>Anneli_YoRHa_CurtainC</li>
 			<li>Anneli_YoRHa_Underwear</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Attacker</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -343,6 +332,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Attacker</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -374,17 +374,6 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_LongDressB</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Battler</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -398,6 +387,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Battler</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -408,6 +408,19 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_LongDressC</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -472,17 +485,6 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressB</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Executioner</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -496,6 +498,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -506,17 +519,6 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressC</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Executioner</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -530,6 +532,17 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -662,6 +675,19 @@
 		<apparelRequired>
 			<li>Anneli_YoRHa_CombatSuit</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
 			<li>Anneli_YoRHa_Common</li>
@@ -675,19 +701,6 @@
 			<li>GunHeavy</li>
 			<li>SpacerGun</li>
 		</weaponTags>
-		<specificApparelRequirements>
-			<li>
-				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
-			</li>
-		</specificApparelRequirements>
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
@@ -699,17 +712,6 @@
 			<li>Anneli_YoRHa_TopC</li>
 			<li>Anneli_YoRHa_Shorts</li>
 		</apparelRequired>
-		<apparelTags>
-			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Scanner</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
 		<specificApparelRequirements>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
@@ -723,5 +725,16 @@
 				</colorGenerator>
 			</li>
 		</specificApparelRequirements>
+		<apparelTags>
+			<li>BeltDefensePop</li>
+			<li>Anneli_YoRHa_Common</li>
+			<li>Anneli_YoRHa_Scanner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
 	</PawnKindDef>
 </Defs>

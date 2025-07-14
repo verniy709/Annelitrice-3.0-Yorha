@@ -8,7 +8,25 @@
                 <kindDef>Shamblers</kindDef>
                 <commonality>10</commonality>
                 <options>
-
+                    <Anneli_YoRHa_Shambler_Copied_Flower>1</Anneli_YoRHa_Shambler_Copied_Flower>
+                    <Anneli_YoRHa_Shambler_Copied_Nier>1</Anneli_YoRHa_Shambler_Copied_Nier>
+                    <Anneli_YoRHa_Shambler_Copied_Kaine>1</Anneli_YoRHa_Shambler_Copied_Kaine>
+                    <Anneli_YoRHa_Shambler_Commander>3</Anneli_YoRHa_Shambler_Commander>
+                    <Anneli_YoRHa_Shambler_Attacker>3</Anneli_YoRHa_Shambler_Attacker>
+                    <Anneli_YoRHa_Shambler_Attacker_B>3</Anneli_YoRHa_Shambler_Attacker_B>
+                    <Anneli_YoRHa_Shambler_Attacker_C>3</Anneli_YoRHa_Shambler_Attacker_C>
+                    <Anneli_YoRHa_Shambler_Battler>2</Anneli_YoRHa_Shambler_Battler>
+                    <Anneli_YoRHa_Shambler_Battler_B>2</Anneli_YoRHa_Shambler_Battler_B>
+                    <Anneli_YoRHa_Shambler_Battler_C>2</Anneli_YoRHa_Shambler_Battler_C>
+                    <Anneli_YoRHa_Shambler_Defender>3</Anneli_YoRHa_Shambler_Defender>
+                    <Anneli_YoRHa_Shambler_Executioner>2</Anneli_YoRHa_Shambler_Executioner>
+                    <Anneli_YoRHa_Shambler_Executioner_B>2</Anneli_YoRHa_Shambler_Executioner_B>
+                    <Anneli_YoRHa_Shambler_Executioner_C>2</Anneli_YoRHa_Shambler_Executioner_C>
+                    <Anneli_YoRHa_Shambler_Gunner>3</Anneli_YoRHa_Shambler_Gunner>
+                    <Anneli_YoRHa_Shambler_Healer>2</Anneli_YoRHa_Shambler_Healer>
+                    <Anneli_YoRHa_Shambler_Healer_B>2</Anneli_YoRHa_Shambler_Healer_B>
+                    <Anneli_YoRHa_Shambler_Operator>3</Anneli_YoRHa_Shambler_Operator>
+                    <Anneli_YoRHa_Shambler_Scanner>3</Anneli_YoRHa_Shambler_Scanner>
                 </options>
             </li>
         </value>
