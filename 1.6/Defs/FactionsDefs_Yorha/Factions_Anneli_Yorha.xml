@@ -96,6 +96,20 @@
 				</options>
 			</li>
 			<li>
+				<kindDef>Combat</kindDef>
+				<commonality>60</commonality>
+				<options>
+					<Anneli_YoRHa_Leader>1</Anneli_YoRHa_Leader>
+					<Anneli_YoRHa_Battler>2</Anneli_YoRHa_Battler>
+					<Anneli_YoRHa_Battler_B>2</Anneli_YoRHa_Battler_B>
+					<Anneli_YoRHa_Battler_C>2</Anneli_YoRHa_Battler_C>
+					<Anneli_YoRHa_Executioner>2</Anneli_YoRHa_Executioner>
+					<Anneli_YoRHa_Executioner_B>2</Anneli_YoRHa_Executioner_B>
+					<Anneli_YoRHa_Executioner_C>2</Anneli_YoRHa_Executioner_C>
+					<Anneli_YoRHa_Operator>3</Anneli_YoRHa_Operator>
+				</options>
+			</li>
+			<li>
 				<kindDef>Peaceful</kindDef>
 				<options>
 					<Anneli_YoRHa_Copied_Flower>1</Anneli_YoRHa_Copied_Flower>
