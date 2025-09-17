@@ -137,9 +137,10 @@
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
 								<graphic>
-									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<texPath>8B/Anneli_YoRHa_POD</texPath>
 									<graphicClass>Graphic_Single</graphicClass>
 								</graphic>
+								<invisible>true</invisible>
 							</li>
 						</comps>
 					</li>
@@ -261,9 +262,10 @@
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
 								<graphic>
-									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<texPath>8B/Anneli_YoRHa_Grimore</texPath>
 									<graphicClass>Graphic_Single</graphicClass>
 								</graphic>
+								<invisible>true</invisible>
 							</li>
 						</comps>
 					</li>
@@ -392,9 +394,10 @@
 							<li Class="MVCF.VerbComps.VerbCompProperties_Turret">
 								<compClass>MVCF.VerbComps.VerbComp_Turret</compClass>
 								<graphic>
-									<texPath>Anneli_Null/Anneli_Null</texPath>
+									<texPath>8B/Anneli_YoRHa_Machine</texPath>
 									<graphicClass>Graphic_Single</graphicClass>
 								</graphic>
+								<invisible>true</invisible>
 							</li>
 						</comps>
 					</li>
