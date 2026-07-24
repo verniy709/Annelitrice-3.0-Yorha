@@ -4,7 +4,7 @@
 	<ResearchProjectDef>
 		<defName>Anneli_YoRHa_Apparels</defName>
 		<label>Annelitrice YoRHa Apparels</label>
-		<description>Annelitrice YoRHa apparels.</description>
+		<description>A high-tech device that transports raw materials to a secret factory for processing. Defying common sense, it appears to require no external power source.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Medieval</techLevel>
 		<prerequisites>

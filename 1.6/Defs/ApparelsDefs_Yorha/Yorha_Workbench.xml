@@ -3,7 +3,7 @@
   <ThingDef ParentName="BenchBase">
     <defName>Anneli_YoRHa_Workbench</defName>
     <label>Anneli YoRHa Bench</label>
-    <description>Looks like a regular table, but if an operator puts in raw material and keeps twisting the handles on the sides, some new clothes is made. Quite a few people believe this is a Rumanian Box scam.</description>
+    <description>A high-tech device that transports raw materials to a secret factory for processing. Defying common sense, it appears to require no external power source.</description>
     <thingClass>Building_WorkTable</thingClass>
     <graphicData>
       <texPath>Anneli_YoRHa_Workbench</texPath>
