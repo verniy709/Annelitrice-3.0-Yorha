@@ -38,7 +38,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LBS_Left</def>
 				</actionManager>
-				<skipFlag>Anneli_Sleeve3_Left</skipFlag>
+				<skipFlag>Anneli_Sleeve2_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
@@ -59,7 +59,7 @@
 				<actionManager>
 					<def>Anneli_Arm_LBS_Right</def>
 				</actionManager>
-				<skipFlag>Anneli_Sleeve3_Right</skipFlag>
+				<skipFlag>Anneli_Sleeve2_Right</skipFlag>
 			</li>
 		</levels>
 	</NareisLib.MultiTexDef>
