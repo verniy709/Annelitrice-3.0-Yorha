@@ -2,10 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_YoRHa_2B" ParentName="Anneli_2B" Abstract="True">
-		<equippedStatOffsets>
-			<MeleeHitChance>0.1</MeleeHitChance>
-			<MeleeDodgeChance>0.1</MeleeDodgeChance>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>

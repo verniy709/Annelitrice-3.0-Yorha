@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_YoRHa_1A" ParentName="Anneli_1A" Abstract="True">
-		<equippedStatOffsets>
-			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>

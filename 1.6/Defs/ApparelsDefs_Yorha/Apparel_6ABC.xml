@@ -2,11 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_YoRHa_6ABC_NonMetal" ParentName="Anneli_6ABC_NonMetal" Abstract="True">
-		<equippedStatOffsets>
-			<HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">0.2</HackingSpeed>
-			<MechRepairSpeed MayRequire="Ludeon.RimWorld.Biotech">0.2</MechRepairSpeed>
-			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">8</MechBandwidth>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>
@@ -18,11 +13,6 @@
 	</ThingDef>
 
 	<ThingDef Name="Anneli_YoRHa_6ABC_Metal" ParentName="Anneli_6ABC_Metal" Abstract="True">
-		<equippedStatOffsets>
-			<HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">0.2</HackingSpeed>
-			<MechRepairSpeed MayRequire="Ludeon.RimWorld.Biotech">0.2</MechRepairSpeed>
-			<MechBandwidth MayRequire="Ludeon.RimWorld.Biotech">8</MechBandwidth>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>

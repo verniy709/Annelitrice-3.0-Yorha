@@ -31,6 +31,7 @@
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_SkipTail</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -59,6 +60,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Copied_Flower</li>
 				<li>Anneli_YoRHa_Commander</li>
+				<li>Anneli_SkipTail</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

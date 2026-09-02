@@ -2,9 +2,6 @@
 <Defs>
 
 	<ThingDef Name="Anneli_YoRHa_34" ParentName="Anneli_34" Abstract="True">
-		<equippedStatOffsets>
-			<RestFallRateFactor>-0.2</RestFallRateFactor>
-		</equippedStatOffsets>
 		<thingCategories>
 			<li>Anneli_Category_YoRHa</li>
 		</thingCategories>
