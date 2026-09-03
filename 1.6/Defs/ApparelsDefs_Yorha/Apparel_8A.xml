@@ -28,7 +28,7 @@
 						<clipPath>Anneli_MusicBoxA</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>50~50</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
@@ -49,7 +49,7 @@
 						<clipPath>Anneli_MusicBoxB</clipPath>
 					</li>
 				</grains>
-				<volumeRange>40~40</volumeRange>
+				<volumeRange>45~45</volumeRange>
 			</li>
 		</subSounds>
 	</SoundDef>
