@@ -48,7 +48,7 @@
       <li>PlaceWorker_ShowFacilitiesConnections</li>
     </placeWorkers>
     <researchPrerequisites>
-      <li>Anneli_YoRHa_Apparels</li>
+      <li>Anneli_YoRHa_Apparel</li>
     </researchPrerequisites>
   </ThingDef>
 

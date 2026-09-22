@@ -4,6 +4,7 @@
 	<PawnKindDef Name="Anneli_YoRHa_KindBase" ParentName="Anneli_KindBase" Abstract="True">
 		<label>Anneli_YoRHa_KindBase</label>
 		<itemQuality>Masterwork</itemQuality>
+		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_YoRHa</defaultFactionType>
 		<isFighter>true</isFighter>
 		<combatPower>220</combatPower>

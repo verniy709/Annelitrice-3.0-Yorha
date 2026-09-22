@@ -4,7 +4,7 @@
 	<ThingCategoryDef>
 		<defName>Anneli_Category_YoRHa</defName>
 		<parent>Apparel</parent>
-		<label>Annelitrice YoRHa Apparels</label>
+		<label>Annelitrice YoRHa Apparel</label>
 	</ThingCategoryDef>
 	
 </Defs>
