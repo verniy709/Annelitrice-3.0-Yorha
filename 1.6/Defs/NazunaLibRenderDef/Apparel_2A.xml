@@ -23,10 +23,10 @@
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Arm_BS</li>
+					<li>Anneli_Arm_PS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel2_Sleeve3_BS_Left</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve3_PS_Left</textureLevelsName>
 				<useStaticYOffset>true</useStaticYOffset>
 				<drawOffsetSouth>(0, 1.769, 0)</drawOffsetSouth>
 				<drawOffsetEast>(0, 0.596, 0)</drawOffsetEast>
@@ -36,16 +36,16 @@
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Arm_BS_Left</def>
+					<def>Anneli_Arm_PS_Left</def>
 				</actionManager>
 				<skipFlag>Anneli_Sleeve3_Left</skipFlag>
 			</li>
 			<li>
 				<prefix>
-					<li>Anneli_Arm_BS</li>
+					<li>Anneli_Arm_PS</li>
 				</prefix>
 				<renderLayer>Apparel</renderLayer>
-				<textureLevelsName>Anneli_Apparel2_Sleeve3_BS_Right</textureLevelsName>
+				<textureLevelsName>Anneli_Apparel2_Sleeve3_PS_Right</textureLevelsName>
 				<flipped>true</flipped>
 				<switchEastWest>true</switchEastWest>
 				<useStaticYOffset>true</useStaticYOffset>
@@ -57,7 +57,7 @@
 				<renderParentNodeTagDef>Body</renderParentNodeTagDef>
 				<isSleeve>true</isSleeve>
 				<actionManager>
-					<def>Anneli_Arm_BS_Right</def>
+					<def>Anneli_Arm_PS_Right</def>
 				</actionManager>
 				<skipFlag>Anneli_Sleeve3_Right</skipFlag>
 			</li>
