@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Long ago, in a quiet place far away, lived the annelitrice.\nOne day, they found a forgotten library filled with stories about the greatness of mankind.\nOne of them told of heroes called YoRHa, who fought for something precious called Humanity.\n\nThe annelitrice loved the story, and they loved Humans very much.\nThey stitched black uniforms for themselves, learned the forgotten salutes, and practiced the old ways of fighting.\n"We will go into the wide world," they promised, "and we will help Humans."\n\nThey did not have to search long. \nThe first human asked for beer. \nThe second asked for silver. \nThe third wished to destroy bandits. \nThe fourth wanted his neighbor’s land. \nThe fifth wanted the fourth gone. \nThe sixth demanded complete obedience. \nThe annelitrice served them all. \nWere these the Humans from the stories? \nProbably not. \nPerhaps they were humans—but not yet Humanity. \n\nSo they crossed burning deserts and pale oceans. \nAt last, in the shadow of a rusted factory, they found a strange machine. \nIt was built long ago to pack food into cans. \nNo one knew who made it. \nNo one knew why it was wrapped in fresh human skin.\nThe machine rarely spoke. \nBut whenever the hungry came, it offered food. \nIt fed every creature, without condition or question. \nAh, thought the annelitrice. \nHere, at last, was a Humanity.\n\nAnd so, feeling hopeful once more, they continued their search. -->
+  <Anneli_Faction_YoRHa.description>很久以前，在一个遥远而安静的地方，生活着一群安妮莉特丝。\n有一天，她们发现了一座被人遗忘的图书馆，里面满是讲述人类伟大的故事。\n其中一个故事讲述了名为“寄叶”的英雄，她们为了某种无比珍贵的东西而战——那东西叫作“人类”。\n\n她们很喜欢这个故事，也非常喜欢人类。\n她们为自己缝制了黑色制服，学会了早已消失的敬礼，也练习起那些古老的战斗方式。\n“我们要走进广阔的世界，”她们许诺道，“我们要帮助人类。”\n\n她们并没有找多久。\n第一个人想要啤酒。\n第二个人想要银子。\n第三个人希望消灭强盗。\n第四个人想要邻居的土地。\n第五个人想让第四个人消失。\n第六个人要求绝对的服从。\n安妮莉侍奉了他们所有人。\n这些就是故事里的人类吗？\n大概不是。\n也许他们确实是人——但还算不上“人类”。\n\n于是，她们穿过灼热的沙漠，也渡过苍白的海洋。\n最后，在一座锈蚀工厂的阴影下，她们发现了一台奇怪的机器。\n它在很久以前被制造出来，用来把食物装进罐头。\n没有人知道是谁制造了它。\n也没有人知道，为什么它被新鲜的人皮包裹着。\n这台机器很少说话。\n可是，每当饥饿者来到它面前，它都会给他们食物。\n机器会喂饱每一个生灵，没有任何条件。\n啊，终于，她们找到了一个“人类”。\n\n于是，重新燃起希望的她们，继续踏上了寻找之旅。</Anneli_Faction_YoRHa.description>
+  <!-- EN: Forged YoRHa Butai -->
+  <Anneli_Faction_YoRHa.fixedName>伪造的寄叶部队</Anneli_Faction_YoRHa.fixedName>
+  <!-- EN: Anneli Faction YoRHa Butai -->
+  <Anneli_Faction_YoRHa.label>安妮莉特丝寄叶部队</Anneli_Faction_YoRHa.label>
+  <!-- EN: Gestalt -->
+  <Anneli_Faction_YoRHa.leaderTitle>格式塔</Anneli_Faction_YoRHa.leaderTitle>
+  <!-- EN: Annelitrice -->
+  <Anneli_Faction_YoRHa.pawnSingular>安妮莉特丝</Anneli_Faction_YoRHa.pawnSingular>
+  <!-- EN: Annelitrice -->
+  <Anneli_Faction_YoRHa.pawnsPlural>安妮莉特丝</Anneli_Faction_YoRHa.pawnsPlural>
+</LanguageData>

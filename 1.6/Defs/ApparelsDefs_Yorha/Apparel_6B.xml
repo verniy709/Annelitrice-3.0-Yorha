@@ -37,9 +37,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Executioner</li>
-				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -69,9 +67,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Executioner</li>
-				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -101,9 +97,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Executioner</li>
-				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -143,7 +137,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.9</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 	<!--Anneli_YoRHa_SqureGlasses-->
@@ -170,7 +164,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.35</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.3</generateAllowChance><!--Less Spawn-->
 	</ThingDef>
 
 

@@ -13,12 +13,21 @@
                             <li>Anneli_YoRHa_Copied_Nier</li>
                             <li>Anneli_YoRHa_Copied_Kaine</li>
                             <li>Anneli_YoRHa_Commander</li>
-                            <li>Anneli_YoRHa_Attacker</li>
-                            <li>Anneli_YoRHa_Battler</li>
-                            <li>Anneli_YoRHa_Defender</li>
-                            <li>Anneli_YoRHa_Executioner</li>
-                            <li>Anneli_YoRHa_Gunner</li>
-                            <li>Anneli_YoRHa_Healer</li>
+                            <li>Anneli_YoRHa_AttackerA</li>
+                            <li>Anneli_YoRHa_AttackerB</li>
+                            <li>Anneli_YoRHa_AttackerC</li>
+                            <li>Anneli_YoRHa_BattlerA</li>
+                            <li>Anneli_YoRHa_BattlerB</li>
+                            <li>Anneli_YoRHa_BattlerC</li>
+                            <li>Anneli_YoRHa_DefenderA</li>
+                            <li>Anneli_YoRHa_DefenderB</li>
+                            <li>Anneli_YoRHa_ExecutionerA</li>
+                            <li>Anneli_YoRHa_ExecutionerB</li>
+                            <li>Anneli_YoRHa_ExecutionerC</li>
+                            <li>Anneli_YoRHa_GunnerA</li>
+                            <li>Anneli_YoRHa_GunnerB</li>
+                            <li>Anneli_YoRHa_HealerA</li>
+                            <li>Anneli_YoRHa_HealerB</li>
                             <li>Anneli_YoRHa_Operator</li>
                             <li>Anneli_YoRHa_Scanner</li>
                         </pawnKinds>
@@ -36,12 +45,21 @@
                             <li>Anneli_YoRHa_Copied_Nier</li>
                             <li>Anneli_YoRHa_Copied_Kaine</li>
                             <li>Anneli_YoRHa_Commander</li>
-                            <li>Anneli_YoRHa_Attacker</li>
-                            <li>Anneli_YoRHa_Battler</li>
-                            <li>Anneli_YoRHa_Defender</li>
-                            <li>Anneli_YoRHa_Executioner</li>
-                            <li>Anneli_YoRHa_Gunner</li>
-                            <li>Anneli_YoRHa_Healer</li>
+                            <li>Anneli_YoRHa_AttackerA</li>
+                            <li>Anneli_YoRHa_AttackerB</li>
+                            <li>Anneli_YoRHa_AttackerC</li>
+                            <li>Anneli_YoRHa_BattlerA</li>
+                            <li>Anneli_YoRHa_BattlerB</li>
+                            <li>Anneli_YoRHa_BattlerC</li>
+                            <li>Anneli_YoRHa_DefenderA</li>
+                            <li>Anneli_YoRHa_DefenderB</li>
+                            <li>Anneli_YoRHa_ExecutionerA</li>
+                            <li>Anneli_YoRHa_ExecutionerB</li>
+                            <li>Anneli_YoRHa_ExecutionerC</li>
+                            <li>Anneli_YoRHa_GunnerA</li>
+                            <li>Anneli_YoRHa_GunnerB</li>
+                            <li>Anneli_YoRHa_HealerA</li>
+                            <li>Anneli_YoRHa_HealerB</li>
                             <li>Anneli_YoRHa_Operator</li>
                             <li>Anneli_YoRHa_Scanner</li>
                         </pawnKinds>

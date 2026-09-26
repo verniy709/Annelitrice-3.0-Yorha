@@ -24,7 +24,6 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_YoRHa_DressA</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -51,8 +50,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_YoRHa_DressB</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
-				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -78,8 +76,7 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_YoRHa_DressC</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
-				<li>Anneli_YoRHa_Operator</li>
+				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -132,7 +129,6 @@
 			<wornGraphicPath>2AB/Anneli_YoRHa_LongDressA</wornGraphicPath>
 			<tags>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -159,7 +155,6 @@
 			<wornGraphicPath>2AB/Anneli_YoRHa_LongDressB</wornGraphicPath>
 			<tags>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -186,7 +181,6 @@
 			<wornGraphicPath>2AB/Anneli_YoRHa_LongDressC</wornGraphicPath>
 			<tags>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Executioner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -212,7 +206,6 @@
 		<apparel>
 			<wornGraphicPath>2AB/Anneli_YoRHa_CombatSuit</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->

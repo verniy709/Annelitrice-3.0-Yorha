@@ -37,7 +37,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
@@ -75,7 +75,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
@@ -111,7 +111,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
@@ -147,7 +147,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Scanner</li>
@@ -243,7 +243,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
@@ -276,7 +276,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Attacker</li>
 				<li>Anneli_YoRHa_Battler</li>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
@@ -375,7 +375,7 @@
 		<apparel>
 			<wornGraphicPath>6A/Anneli_YoRHa_ConicalHat</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderA</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_SkipOverhead</li>
 			</tags>

@@ -40,7 +40,6 @@
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
-				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_YoRHa_Scanner</li>
 				<li>Anneli_SkipHeadAddons</li>
@@ -63,7 +62,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateCommonality>0.35</generateCommonality><!--Less chance-->
+		<generateCommonality>0.3</generateCommonality><!--Less chance-->
 	</ThingDef>
 		
 </Defs>

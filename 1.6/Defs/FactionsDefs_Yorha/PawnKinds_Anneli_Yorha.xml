@@ -62,30 +62,28 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Leader</defName>
-		<label>YoRHa_Copied_Gestalt</label>
+		<label>YoRHa Copied_Gestalt</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<factionLeader>true</factionLeader>
 		<apparelRequired>
-			<li>Anneli_YoRHa_DressD</li>
+			<li>Anneli_YoRHa_DressA</li>
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_YoRHa_Socks</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(255,245,245,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Copied_Flower</li>
+			<li>Anneli_YoRHa_Executioner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -93,17 +91,28 @@
 			<li>SpacerMelee</li>
 			<li>UltratechMelee</li>
 		</weaponTags>
+		<apparelColor>(255,245,245,255)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Copied_Flower</defName>
-		<label>YoRHa_Copied_Flower</label>
+		<label>YoRHa Copied_Flower</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressD</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Flower</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Flower</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_YoRHa_Socks</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -118,7 +127,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Copied_Flower</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -131,7 +139,7 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Copied_Nier</defName>
-		<label>YoRHa_Copied_Nier</label>
+		<label>YoRHa Copied_Nier</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -139,6 +147,36 @@
 			<li>Anneli_YoRHa_Pants</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Torso</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Nier</requiredTag>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(255,245,245,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Nier</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -153,7 +191,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Copied_Nier</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -166,15 +203,26 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Copied_Kaine</defName>
-		<label>YoRHa_Copied_Kaine</label>
+		<label>YoRHa Copied_Kaine</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_LingerieA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Kaine</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Copied_Kaine</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Copied_Kaine</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -187,13 +235,23 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Commander</defName>
-		<label>YoRHa_Commander</label>
+		<label>YoRHa Commander</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_LongDressB</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Commander</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Commander</requiredTag>
+			</li>
 			<li>
 				<apparelLayer>OnSkin</apparelLayer>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -230,7 +288,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Commander</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -242,8 +299,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Attacker</defName>
-		<label>YoRHa_Attacker</label>
+		<defName>Anneli_YoRHa_AttackerA</defName>
+		<label>YoRHa Attacker</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -265,7 +322,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Attacker</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -277,8 +333,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Attacker_B</defName>
-		<label>YoRHa_Attacker</label>
+		<defName>Anneli_YoRHa_AttackerB</defName>
+		<label>YoRHa Attacker</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -300,7 +356,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Attacker</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -312,8 +367,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Attacker_C</defName>
-		<label>YoRHa_Attacker</label>
+		<defName>Anneli_YoRHa_AttackerC</defName>
+		<label>YoRHa Attacker</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -335,7 +390,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Attacker</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -347,16 +401,22 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Battler</defName>
-		<label>YoRHa_Battler</label>
+		<defName>Anneli_YoRHa_BattlerA</defName>
+		<label>YoRHa Battler</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_LongDressA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Battler</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Battler</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -368,8 +428,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Battler_B</defName>
-		<label>YoRHa_Battler</label>
+		<defName>Anneli_YoRHa_BattlerB</defName>
+		<label>YoRHa Battler</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -377,6 +437,11 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Battler</requiredTag>
+			</li>
+			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
@@ -390,7 +455,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Battler</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -402,8 +466,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Battler_C</defName>
-		<label>YoRHa_Battler</label>
+		<defName>Anneli_YoRHa_BattlerC</defName>
+		<label>YoRHa Battler</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -411,6 +475,11 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Battler</requiredTag>
+			</li>
+			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
 					<options>
@@ -424,7 +493,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Battler</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -436,18 +504,25 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Defender</defName>
-		<label>YoRHa_Defender</label>
+		<defName>Anneli_YoRHa_DefenderA</defName>
+		<label>YoRHa Defender</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_TopB</li>
 			<li>Anneli_YoRHa_Pants</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Defender</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Defender</li>
+			<li>Anneli_YoRHa_DefenderA</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
@@ -458,16 +533,56 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Executioner</defName>
-		<label>YoRHa_Executioner</label>
+		<defName>Anneli_YoRHa_DefenderB</defName>
+		<label>YoRHa Defender</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_TopB</li>
+			<li>Anneli_YoRHa_Pants</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Defender</requiredTag>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Defender</li>
+			<li>Anneli_YoRHa_DefenderB</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_ExecutionerA</defName>
+		<label>YoRHa Executioner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_DressA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Executioner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -479,8 +594,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Executioner_B</defName>
-		<label>YoRHa_Executioner</label>
+		<defName>Anneli_YoRHa_ExecutionerB</defName>
+		<label>YoRHa Executioner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -488,39 +603,15 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
 			</li>
-		</specificApparelRequirements>
-		<apparelTags>
-			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
-			<li>Anneli_YoRHa_Executioner</li>
-		</apparelTags>
-		<apparelMoney>2000~4000</apparelMoney>
-		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
-		</weaponTags>
-	</PawnKindDef>
-
-	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Executioner_C</defName>
-		<label>YoRHa_Executioner</label>
-		<isFighter>True</isFighter>
-		<trader>true</trader>
-		<apparelRequired>
-			<li>Anneli_YoRHa_DressC</li>
-		</apparelRequired>
-		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -535,7 +626,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>Anneli_ShieldBelt</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Executioner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -547,17 +637,71 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Gunner</defName>
-		<label>YoRHa_Gunner</label>
+		<defName>Anneli_YoRHa_ExecutionerC</defName>
+		<label>YoRHa Executioner</label>
+		<isFighter>True</isFighter>
+		<trader>true</trader>
+		<apparelRequired>
+			<li>Anneli_YoRHa_DressC</li>
+		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Executioner</requiredTag>
+			</li>
+			<li>
+				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
+				<colorGenerator Class="ColorGenerator_Options">
+					<options>
+						<li>
+							<weight>10</weight>
+							<only>(50,45,50,255)</only>
+						</li>
+					</options>
+				</colorGenerator>
+			</li>
+		</specificApparelRequirements>
+		<apparelTags>
+			<li>Anneli_ShieldBelt</li>
+			<li>Anneli_YoRHa_Executioner</li>
+		</apparelTags>
+		<apparelMoney>2000~4000</apparelMoney>
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+			<li>SpacerMelee</li>
+			<li>UltratechMelee</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
+		<defName>Anneli_YoRHa_GunnerA</defName>
+		<label>YoRHa Gunner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_TopA</li>
 			<li>Anneli_YoRHa_SkirtA</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Gunner</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Gunner</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Gunner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -571,17 +715,28 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Gunner_B</defName>
-		<label>YoRHa_Gunner</label>
+		<defName>Anneli_YoRHa_GunnerB</defName>
+		<label>YoRHa Gunner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
 			<li>Anneli_YoRHa_TopD</li>
 			<li>Anneli_YoRHa_SkirtB</li>
 		</apparelRequired>
+		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Gunner</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Gunner</requiredTag>
+			</li>
+		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Gunner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -595,8 +750,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Healer</defName>
-		<label>YoRHa_Healer</label>
+		<defName>Anneli_YoRHa_HealerA</defName>
+		<label>YoRHa Healer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -604,6 +759,16 @@
 			<li>Anneli_YoRHa_Pants</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Healer</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Healer</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_YoRHa_Pants</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -618,7 +783,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Healer</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -632,8 +796,8 @@
 	</PawnKindDef>
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
-		<defName>Anneli_YoRHa_Healer_B</defName>
-		<label>YoRHa_Healer</label>
+		<defName>Anneli_YoRHa_HealerB</defName>
+		<label>YoRHa Healer</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -641,6 +805,16 @@
 			<li>Anneli_YoRHa_Shorts</li>
 		</apparelRequired>
 		<specificApparelRequirements>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Healer</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Healer</requiredTag>
+			</li>
 			<li>
 				<apparelDef>Anneli_YoRHa_Shorts</apparelDef>
 				<colorGenerator Class="ColorGenerator_Options">
@@ -655,7 +829,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Healer</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -670,7 +843,7 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Operator</defName>
-		<label>YoRHa_Operator</label>
+		<label>YoRHa Operator</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -678,20 +851,18 @@
 		</apparelRequired>
 		<specificApparelRequirements>
 			<li>
-				<apparelDef>Anneli_YoRHa_LongGlovesYoRHa</apparelDef>
-				<colorGenerator Class="ColorGenerator_Options">
-					<options>
-						<li>
-							<weight>10</weight>
-							<only>(50,45,50,255)</only>
-						</li>
-					</options>
-				</colorGenerator>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>OnSkin</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Operator</requiredTag>
+			</li>
+			<li>
+				<bodyPartGroup>Feet</bodyPartGroup>
+				<apparelLayer>Middle</apparelLayer>
+				<requiredTag>Anneli_YoRHa_Operator</requiredTag>
 			</li>
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Operator</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -706,7 +877,7 @@
 
 	<PawnKindDef ParentName="Anneli_YoRHa_KindBase">
 		<defName>Anneli_YoRHa_Scanner</defName>
-		<label>YoRHa_Scanner</label>
+		<label>YoRHa Scanner</label>
 		<isFighter>True</isFighter>
 		<trader>true</trader>
 		<apparelRequired>
@@ -728,7 +899,6 @@
 		</specificApparelRequirements>
 		<apparelTags>
 			<li>BeltDefensePop</li>
-			<li>Anneli_YoRHa_Common</li>
 			<li>Anneli_YoRHa_Scanner</li>
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
@@ -738,4 +908,5 @@
 			<li>UltratechMelee</li>
 		</weaponTags>
 	</PawnKindDef>
+	
 </Defs>

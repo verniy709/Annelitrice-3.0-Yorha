@@ -35,7 +35,7 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetA</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderB</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_SkipHeadAddons</li>
 				<li>Anneli_SkipOverhead</li>
@@ -71,7 +71,7 @@
 		<apparel>
 			<wornGraphicPath>6ABC/Anneli_YoRHa_HeavyHelmetB</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderB</li>
 				<li>Anneli_YoRHa_Operator</li>
 				<li>Anneli_SkipHeadAddons</li>
 				<li>Anneli_SkipOverhead</li>
@@ -89,11 +89,11 @@
 			<options>
 				<li>
 					<weight>10</weight>
-					<only>(200,60,60,255)</only>
+					<only>(250,220,120,255)</only>
 				</li>
 				<li>
 					<weight>10</weight>
-					<only>(240,220,200,255)</only>
+					<only>(200,60,60,255)</only>
 				</li>
 			</options>
 		</colorGenerator>

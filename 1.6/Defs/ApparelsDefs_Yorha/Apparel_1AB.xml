@@ -24,7 +24,6 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_YoRHa_BodySuitA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Defender</li>
@@ -55,7 +54,6 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_YoRHa_BodySuitB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Defender</li>
@@ -86,7 +84,6 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_YoRHa_BodySuitC</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Defender</li>
@@ -118,7 +115,7 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_YoRHa_LingerieA</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
+				<li>Anneli_YoRHa_Copied_Nier</li>
 				<li>Anneli_YoRHa_Copied_Kaine</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -145,7 +142,6 @@
 		<apparel>
 			<wornGraphicPath>1AB/Anneli_YoRHa_LingerieB</wornGraphicPath>
 			<tags>
-				<li>Anneli_Underwear</li>
 				<li>Anneli_YoRHa_Copied_Flower</li>
 				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Executioner</li>

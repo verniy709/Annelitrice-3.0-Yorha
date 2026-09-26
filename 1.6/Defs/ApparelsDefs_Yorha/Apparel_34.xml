@@ -24,7 +24,7 @@
 		<apparel>
 			<wornGraphicPath>34/Anneli_YoRHa_HeavyArmor</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_DefenderB</li>
 				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->

@@ -67,6 +67,11 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>8A/Anneli_YoRHa_MusicBox</wornGraphicPath>
+			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Operator</li>
+			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
@@ -89,7 +94,7 @@
 				</li>
 			</options>
 		</colorGenerator>
-		<generateAllowChance>0.0</generateAllowChance><!--Less Spawn-->
+		<generateAllowChance>0.1</generateAllowChance><!--Less Spawn-->
 		<costStuffCount>20</costStuffCount>
 		<stuffCategories>
 			<li>Woody</li>
@@ -162,7 +167,6 @@
 				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Executioner</li>
-				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

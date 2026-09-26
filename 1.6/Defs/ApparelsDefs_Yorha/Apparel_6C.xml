@@ -24,14 +24,10 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_YoRHa_MaskA</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Attacker</li>
-				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Defender</li>
-				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Operator</li>
-				<li>Anneli_YoRHa_Scanner</li>
 				<li>Anneli_YoRHa_Commander</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
@@ -61,7 +57,7 @@
 			<tags>
 				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Gunner</li>
-				<li>Anneli_YoRHa_Scanner</li>
+				<li>Anneli_YoRHa_Operator</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>
@@ -88,13 +84,9 @@
 		<apparel>
 			<wornGraphicPath>6C/Anneli_YoRHa_Veil</wornGraphicPath>
 			<tags>
-				<li>Anneli_YoRHa_Attacker</li>
-				<li>Anneli_YoRHa_Battler</li>
 				<li>Anneli_YoRHa_Defender</li>
-				<li>Anneli_YoRHa_Executioner</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Operator</li>
-				<li>Anneli_YoRHa_Scanner</li>
 			</tags>
 			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
 		</apparel>

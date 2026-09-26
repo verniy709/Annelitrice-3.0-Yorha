@@ -35,6 +35,7 @@
 		<apparel>
 			<wornGraphicPath>5B/Anneli_YoRHa_KneePlates</wornGraphicPath>
 			<tags>
+				<li>Anneli_YoRHa_Defender</li>
 				<li>Anneli_YoRHa_Gunner</li>
 				<li>Anneli_YoRHa_Healer</li>
 				<li>Anneli_YoRHa_Scanner</li>

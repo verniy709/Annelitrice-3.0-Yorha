@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_Bandage.description>可染色.</Anneli_YoRHa_Bandage.description>
+  <!-- EN: (YoRHa)1C_Bandage -->
+  <Anneli_YoRHa_Bandage.label>(寄叶)1C_绷带</Anneli_YoRHa_Bandage.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_Socks.description>可染色.</Anneli_YoRHa_Socks.description>
+  <!-- EN: (YoRHa)1C_Socks -->
+  <Anneli_YoRHa_Socks.label>(寄叶)1C_长袜</Anneli_YoRHa_Socks.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_StockingsA.description>可染色.</Anneli_YoRHa_StockingsA.description>
+  <!-- EN: (YoRHa)1C_StockingsA -->
+  <Anneli_YoRHa_StockingsA.label>(寄叶)1C_过膝袜A</Anneli_YoRHa_StockingsA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_StockingsB.description>可染色.</Anneli_YoRHa_StockingsB.description>
+  <!-- EN: (YoRHa)1C_StockingsB -->
+  <Anneli_YoRHa_StockingsB.label>(寄叶)1C_过膝袜B</Anneli_YoRHa_StockingsB.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_TightA.description>可染色.</Anneli_YoRHa_TightA.description>
+  <!-- EN: (YoRHa)1C_TightA -->
+  <Anneli_YoRHa_TightA.label>(寄叶)1C_紧身裤A</Anneli_YoRHa_TightA.label>
+  <!-- EN: Dyeable. -->
+  <Anneli_YoRHa_TightB.description>可染色.</Anneli_YoRHa_TightB.description>
+  <!-- EN: (YoRHa)1C_TightB -->
+  <Anneli_YoRHa_TightB.label>(寄叶)1C_紧身裤B</Anneli_YoRHa_TightB.label>
+</LanguageData>

@@ -31,85 +31,91 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker</li>
+						<li>Anneli_YoRHa_AttackerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker_B</li>
+						<li>Anneli_YoRHa_AttackerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker_C</li>
+						<li>Anneli_YoRHa_AttackerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler</li>
+						<li>Anneli_YoRHa_BattlerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler_B</li>
+						<li>Anneli_YoRHa_BattlerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler_C</li>
+						<li>Anneli_YoRHa_BattlerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Defender</li>
+						<li>Anneli_YoRHa_DefenderA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner</li>
+						<li>Anneli_YoRHa_DefenderB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner_B</li>
+						<li>Anneli_YoRHa_ExecutionerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner_C</li>
+						<li>Anneli_YoRHa_ExecutionerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Gunner</li>
+						<li>Anneli_YoRHa_ExecutionerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Gunner_B</li>
+						<li>Anneli_YoRHa_GunnerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Healer</li>
+						<li>Anneli_YoRHa_GunnerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Healer_B</li>
+						<li>Anneli_YoRHa_HealerA</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_HealerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -156,85 +162,91 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker</li>
+								<li>Anneli_YoRHa_AttackerA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker_B</li>
+								<li>Anneli_YoRHa_AttackerB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker_C</li>
+								<li>Anneli_YoRHa_AttackerC</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler</li>
+								<li>Anneli_YoRHa_BattlerA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler_B</li>
+								<li>Anneli_YoRHa_BattlerB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler_C</li>
+								<li>Anneli_YoRHa_BattlerC</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Defender</li>
+								<li>Anneli_YoRHa_DefenderA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner</li>
+								<li>Anneli_YoRHa_DefenderB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner_B</li>
+								<li>Anneli_YoRHa_ExecutionerA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner_C</li>
+								<li>Anneli_YoRHa_ExecutionerB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Gunner</li>
+								<li>Anneli_YoRHa_ExecutionerC</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Gunner_B</li>
+								<li>Anneli_YoRHa_GunnerA</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Healer</li>
+								<li>Anneli_YoRHa_GunnerB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Healer_B</li>
+								<li>Anneli_YoRHa_HealerA</li>
+							</kindDefs>
+							<chance>1</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_HealerB</li>
 							</kindDefs>
 							<chance>1</chance>
 						</li>
@@ -284,85 +296,91 @@
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker</li>
+						<li>Anneli_YoRHa_AttackerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker_B</li>
+						<li>Anneli_YoRHa_AttackerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Attacker_C</li>
+						<li>Anneli_YoRHa_AttackerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler</li>
+						<li>Anneli_YoRHa_BattlerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler_B</li>
+						<li>Anneli_YoRHa_BattlerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Battler_C</li>
+						<li>Anneli_YoRHa_BattlerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Defender</li>
+						<li>Anneli_YoRHa_DefenderA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner</li>
+						<li>Anneli_YoRHa_DefenderB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner_B</li>
+						<li>Anneli_YoRHa_ExecutionerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Executioner_C</li>
+						<li>Anneli_YoRHa_ExecutionerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Gunner</li>
+						<li>Anneli_YoRHa_ExecutionerC</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Gunner_B</li>
+						<li>Anneli_YoRHa_GunnerA</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Healer</li>
+						<li>Anneli_YoRHa_GunnerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
 				<li>
 					<kindDefs>
-						<li>Anneli_YoRHa_Healer_B</li>
+						<li>Anneli_YoRHa_HealerA</li>
+					</kindDefs>
+					<chance>1</chance>
+				</li>
+				<li>
+					<kindDefs>
+						<li>Anneli_YoRHa_HealerB</li>
 					</kindDefs>
 					<chance>1</chance>
 				</li>
@@ -409,85 +427,91 @@
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker</li>
+								<li>Anneli_YoRHa_AttackerA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker_B</li>
+								<li>Anneli_YoRHa_AttackerB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Attacker_C</li>
+								<li>Anneli_YoRHa_AttackerC</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler</li>
+								<li>Anneli_YoRHa_BattlerA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler_B</li>
+								<li>Anneli_YoRHa_BattlerB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Battler_C</li>
+								<li>Anneli_YoRHa_BattlerC</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Defender</li>
+								<li>Anneli_YoRHa_DefenderA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner</li>
+								<li>Anneli_YoRHa_DefenderB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner_B</li>
+								<li>Anneli_YoRHa_ExecutionerA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Executioner_C</li>
+								<li>Anneli_YoRHa_ExecutionerB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Gunner</li>
+								<li>Anneli_YoRHa_ExecutionerC</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Gunner_B</li>
+								<li>Anneli_YoRHa_GunnerA</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Healer</li>
+								<li>Anneli_YoRHa_GunnerB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
 						<li>
 							<kindDefs>
-								<li>Anneli_YoRHa_Healer_B</li>
+								<li>Anneli_YoRHa_HealerA</li>
+							</kindDefs>
+							<chance>100</chance>
+						</li>
+						<li>
+							<kindDefs>
+								<li>Anneli_YoRHa_HealerB</li>
 							</kindDefs>
 							<chance>100</chance>
 						</li>
