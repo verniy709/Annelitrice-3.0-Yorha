@@ -20,7 +20,7 @@
 		<maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
 		<techLevel>Spacer</techLevel>
 		<allowedCultures>
-			<li>Anneli_Cultures_Astropolitan</li>
+			<li>Anneli_Cultures_Astropolitan_YoRHa</li>
 		</allowedCultures>
 		<settlementTexturePath>Anneli_Factions/Anneli_YoRHa</settlementTexturePath>
 		<factionIconPath>Anneli_Factions/Anneli_YoRHa</factionIconPath>

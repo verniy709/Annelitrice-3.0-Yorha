@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_AssaultRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_AssaultRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_Autopistol"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Autopistol"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_Autopistol</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_Autopistol"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_Autopistol</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_BeamGraser"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BeamGraser"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_BeamGraser</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BeamGraser"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_BeamGraser</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_BeamRepeater"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BeamRepeater"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_BeamRepeater</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_BeamRepeater"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_BeamRepeater</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_EmpLauncher"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_EmpLauncher"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_EmpLauncher</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_EmpLauncher"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_EmpLauncher</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Gun_HellcatRifle"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_HellcatRifle"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_Gun_HellcatRifle</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Gun_HellcatRifle"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_Gun_HellcatRifle</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Gladius"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Gladius"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Gladius"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_LongSword"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_LongSword"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_LongSword"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Mace"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSword"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSword"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_MonoSword"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSword"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSword"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_PlasmaSword"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Spear"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Spear"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Spear"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="MeleeWeapon_Zeushammer"]/weaponTags</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Zeushammer"]/weaponTags</xpath>
+      <value>
+        <li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="MeleeWeapon_Zeushammer"]</xpath>
+      <value>
+        <weaponTags>
+          <li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
+        </weaponTags>
+      </value>
+    </nomatch>
+  </Operation>  
+</Patch>

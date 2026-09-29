@@ -87,9 +87,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 		<apparelColor>(255,245,245,255)</apparelColor><!--Fixed apparel color generation-->
 	</PawnKindDef>
@@ -131,9 +135,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -195,9 +203,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -227,9 +239,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -292,9 +308,7 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_Gun_Autopistol</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -326,9 +340,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -360,9 +378,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -394,9 +416,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -421,9 +447,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -459,9 +489,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -497,9 +531,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -526,9 +564,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -555,9 +597,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -587,9 +633,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -630,9 +680,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -673,9 +727,13 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+			<li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+			<li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+			<li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -706,11 +764,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_YoRHa_Gun_AssaultRifle</li>
+			<li>Anneli_YoRHa_Gun_BeamGraser</li>
+			<li>Anneli_YoRHa_Gun_BeamRepeater</li>
+			<li>Anneli_YoRHa_Gun_HellcatRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -741,11 +798,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_YoRHa_Gun_AssaultRifle</li>
+			<li>Anneli_YoRHa_Gun_BeamGraser</li>
+			<li>Anneli_YoRHa_Gun_BeamRepeater</li>
+			<li>Anneli_YoRHa_Gun_HellcatRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -787,11 +843,8 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_YoRHa_Gun_Autopistol</li>
+			<li>Anneli_YoRHa_Gun_EmpLauncher</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -833,11 +886,8 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_YoRHa_Gun_Autopistol</li>
+			<li>Anneli_YoRHa_Gun_EmpLauncher</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -867,11 +917,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>SimpleGun</li>
-			<li>Revolver</li>
-			<li>IndustrialGunAdvanced</li>
-			<li>GunHeavy</li>
-			<li>SpacerGun</li>
+			<li>Anneli_YoRHa_Gun_AssaultRifle</li>
+			<li>Anneli_YoRHa_Gun_BeamGraser</li>
+			<li>Anneli_YoRHa_Gun_BeamRepeater</li>
+			<li>Anneli_YoRHa_Gun_HellcatRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 
@@ -903,9 +952,10 @@
 		</apparelTags>
 		<apparelMoney>2000~4000</apparelMoney>
 		<weaponTags>
-			<li>MedievalMeleeDecent</li>
-			<li>SpacerMelee</li>
-			<li>UltratechMelee</li>
+			<li>Anneli_YoRHa_Gun_AssaultRifle</li>
+			<li>Anneli_YoRHa_Gun_BeamGraser</li>
+			<li>Anneli_YoRHa_Gun_BeamRepeater</li>
+			<li>Anneli_YoRHa_Gun_HellcatRifle</li>
 		</weaponTags>
 	</PawnKindDef>
 	
