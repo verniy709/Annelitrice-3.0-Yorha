@@ -3,7 +3,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_AssaultRifle</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_AssaultRifle</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_AssaultRifle</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -12,7 +12,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_Autopistol</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_Autopistol</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_Autopistol</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -21,7 +21,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_BeamGraser</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_BeamGraser</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_BeamGraser</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -30,7 +30,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_BeamRepeater</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_BeamRepeater</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_BeamRepeater</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -39,7 +39,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_EmpLauncher</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_EmpLauncher</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_EmpLauncher</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -48,7 +48,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_Gun_HellcatRifle</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_Gun_HellcatRifle</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_HellcatRifle</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -57,7 +57,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_Gladius</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_Gladius</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_Gladius</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -66,7 +66,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_LongSword</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_LongSword</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_LongSword</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -75,7 +75,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_Mace</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_Mace</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_Mace</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -84,7 +84,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_MonoSword</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_MonoSword</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_MonoSword</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -93,7 +93,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_PlasmaSword</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_PlasmaSword</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_PlasmaSword</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -102,7 +102,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_Spear</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_Spear</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_Spear</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
@@ -111,7 +111,7 @@
 	<ThingStyleDef>
 		<defName>Anneli_YoRHa_MeleeWeapon_Zeushammer</defName>
 		<graphicData>
-			<texPath>Anneli_Style/Weapon/Anneli_YoRHa_MeleeWeapon_Zeushammer</texPath>
+			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_Zeushammer</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
