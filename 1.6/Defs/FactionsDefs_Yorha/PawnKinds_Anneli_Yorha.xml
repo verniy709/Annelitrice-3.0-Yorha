@@ -7,7 +7,7 @@
 		<forceWeaponQuality>Masterwork</forceWeaponQuality>
 		<defaultFactionType>Anneli_Faction_YoRHa</defaultFactionType>
 		<isFighter>true</isFighter>
-		<combatPower>240</combatPower>
+		<combatPower>220</combatPower>
 		<canBeSapper>true</canBeSapper>
 		<backstoryFiltersOverride>
 			<li>

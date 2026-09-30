@@ -13,11 +13,11 @@
         <thingDef>Gun_Autopistol</thingDef>
         <styleDef>Anneli_YoRHa_Gun_Autopistol</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
         <thingDef>Gun_BeamGraser</thingDef>
         <styleDef>Anneli_YoRHa_Gun_BeamGraser</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Odyssey">
         <thingDef>Gun_BeamRepeater</thingDef>
         <styleDef>Anneli_YoRHa_Gun_BeamRepeater</styleDef>
       </li>
@@ -25,7 +25,7 @@
         <thingDef>Gun_EmpLauncher</thingDef>
         <styleDef>Anneli_YoRHa_Gun_EmpLauncher</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Anomaly">
         <thingDef>Gun_HellcatRifle</thingDef>
         <styleDef>Anneli_YoRHa_Gun_HellcatRifle</styleDef>
       </li>
@@ -41,11 +41,11 @@
         <thingDef>MeleeWeapon_Mace</thingDef>
         <styleDef>Anneli_YoRHa_MeleeWeapon_Mace</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
         <thingDef>MeleeWeapon_MonoSword</thingDef>
         <styleDef>Anneli_YoRHa_MeleeWeapon_MonoSword</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
         <thingDef>MeleeWeapon_PlasmaSword</thingDef>
         <styleDef>Anneli_YoRHa_MeleeWeapon_PlasmaSword</styleDef>
       </li>
@@ -53,7 +53,7 @@
         <thingDef>MeleeWeapon_Spear</thingDef>
         <styleDef>Anneli_YoRHa_MeleeWeapon_Spear</styleDef>
       </li>
-      <li>
+      <li MayRequire="Ludeon.RimWorld.Royalty">
         <thingDef>MeleeWeapon_Zeushammer</thingDef>
         <styleDef>Anneli_YoRHa_MeleeWeapon_Zeushammer</styleDef>
       </li>

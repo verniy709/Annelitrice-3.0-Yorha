@@ -18,7 +18,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Biotech">
 		<defName>Anneli_YoRHa_Gun_BeamGraser</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_BeamGraser</texPath>
@@ -27,7 +27,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Odyssey">
 		<defName>Anneli_YoRHa_Gun_BeamRepeater</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_BeamRepeater</texPath>
@@ -45,7 +45,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>Anneli_YoRHa_Gun_HellcatRifle</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_Gun_HellcatRifle</texPath>
@@ -81,7 +81,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>Anneli_YoRHa_MeleeWeapon_MonoSword</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_MonoSword</texPath>
@@ -90,7 +90,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>Anneli_YoRHa_MeleeWeapon_PlasmaSword</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_PlasmaSword</texPath>
@@ -108,7 +108,7 @@
 		</graphicData>
 	</ThingStyleDef>
 
-	<ThingStyleDef>
+	<ThingStyleDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>Anneli_YoRHa_MeleeWeapon_Zeushammer</defName>
 		<graphicData>
 			<texPath>Anneli_Styles/Weapons/Anneli_YoRHa_MeleeWeapon_Zeushammer</texPath>

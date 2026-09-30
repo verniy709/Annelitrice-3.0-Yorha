@@ -2,8 +2,8 @@
 <Defs>
   <CultureDef>
     <defName>Anneli_Cultures_Astropolitan_YoRHa</defName>
-    <label>Anneli_Cultures_Astropolitan</label>
-    <description>Anneli_Cultures_Astropolitan.</description>
+    <label>Annelitrice Astropolitan Cultures</label>
+    <description>Annelitrice Astropolitan Cultures.</description>
     <ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoAstropolitan</ideoNameMaker>
     <deityNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerDeityAstropolitan</deityNameMaker>
     <deityTypeMaker MayRequire="Ludeon.RimWorld.Ideology">DeityTypeMakerAstropolitan</deityTypeMaker>

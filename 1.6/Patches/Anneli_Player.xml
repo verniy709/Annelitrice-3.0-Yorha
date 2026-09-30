@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>
+      /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+      self::apparelRequired
+      or self::specificApparelRequirements
+      or self::apparelTags
+      or self::weaponTags
+      ]
+    </xpath>
+
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationRemove">
+          <xpath>
+            /Defs/PawnKindDef[defName="Anneli_Player"]/*[
+            self::apparelRequired
+            or self::specificApparelRequirements
+            or self::apparelTags
+            or self::weaponTags
+            ]
+          </xpath>
+        </li>
+        
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+          <value>
+           <apparelRequired>
+            <li>Anneli_YoRHa_LongDressA</li>
+          </apparelRequired>
+          <specificApparelRequirements>
+            <li>
+              <bodyPartGroup>Feet</bodyPartGroup>
+              <apparelLayer>Middle</apparelLayer>
+              <requiredTag>Anneli_YoRHa_Battler</requiredTag>
+            </li>
+          </specificApparelRequirements>
+          <apparelTags>
+            <li>Anneli_ShieldBelt</li>
+            <li>Anneli_YoRHa_Battler</li>
+          </apparelTags>
+          <apparelMoney>2000~4000</apparelMoney>
+          <weaponTags>
+            <li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+            <li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+            <li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+            <li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+            <li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+            <li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+            <li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
+          </weaponTags>
+        </value>
+      </li>
+    </operations>
+  </match>
+
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Anneli_Player"]</xpath>
+    <value>
+      <apparelRequired>
+        <li>Anneli_YoRHa_LongDressA</li>
+      </apparelRequired>
+      <specificApparelRequirements>
+        <li>
+          <bodyPartGroup>Feet</bodyPartGroup>
+          <apparelLayer>Middle</apparelLayer>
+          <requiredTag>Anneli_YoRHa_Battler</requiredTag>
+        </li>
+      </specificApparelRequirements>
+      <apparelTags>
+        <li>Anneli_ShieldBelt</li>
+        <li>Anneli_YoRHa_Battler</li>
+      </apparelTags>
+      <apparelMoney>2000~4000</apparelMoney>
+      <weaponTags>
+        <li>Anneli_YoRHa_MeleeWeapon_Gladius</li>
+        <li>Anneli_YoRHa_MeleeWeapon_LongSword</li>
+        <li>Anneli_YoRHa_MeleeWeapon_Mace</li>
+        <li>Anneli_YoRHa_MeleeWeapon_MonoSword</li>
+        <li>Anneli_YoRHa_MeleeWeapon_PlasmaSword</li>
+        <li>Anneli_YoRHa_MeleeWeapon_Spear</li>
+        <li>Anneli_YoRHa_MeleeWeapon_Zeushammer</li>
+      </weaponTags>
+    </value>
+  </nomatch>
+</Operation>
+</Patch>
