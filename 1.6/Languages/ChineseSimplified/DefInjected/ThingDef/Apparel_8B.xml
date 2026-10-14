@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_YoRHa_POD_Bullet -->
+
+  <Anneli_YoRHa_POD_Bullet.label>POD子弹</Anneli_YoRHa_POD_Bullet.label>
+
+
+  <!-- Anneli_YoRHa_POD_Sound -->
+
+  <Anneli_YoRHa_POD.label>(寄叶)8B_POD</Anneli_YoRHa_POD.label>
+  <Anneli_YoRHa_POD.description>可染色.</Anneli_YoRHa_POD.description>
+  <Anneli_YoRHa_POD.comps.0.verbProps.0.label>POD</Anneli_YoRHa_POD.comps.0.verbProps.0.label>
+  <Anneli_YoRHa_POD.comps.0.verbProps.0.description>POD.</Anneli_YoRHa_POD.comps.0.verbProps.0.description>
+  <Anneli_YoRHa_POD.verbs.0.label>POD</Anneli_YoRHa_POD.verbs.0.label>
+
+
+  <!-- Anneli_YoRHa_Grimore_Bullet -->
+
+  <Anneli_YoRHa_Grimore_Bullet.label>魔法书子弹</Anneli_YoRHa_Grimore_Bullet.label>
+
+
+  <!-- Anneli_YoRHa_Grimore_Sound -->
+
+  <Anneli_YoRHa_Grimore.label>(寄叶)8B_魔法书</Anneli_YoRHa_Grimore.label>
+  <Anneli_YoRHa_Grimore.description>不可染色.</Anneli_YoRHa_Grimore.description>
+  <Anneli_YoRHa_Grimore.comps.0.verbProps.0.label>魔法书</Anneli_YoRHa_Grimore.comps.0.verbProps.0.label>
+  <Anneli_YoRHa_Grimore.comps.0.verbProps.0.description>魔法书.</Anneli_YoRHa_Grimore.comps.0.verbProps.0.description>
+  <Anneli_YoRHa_Grimore.verbs.0.label>魔法书</Anneli_YoRHa_Grimore.verbs.0.label>
+
+
+  <!-- Anneli_YoRHa_Machine_Bullet -->
+
+  <Anneli_YoRHa_Machine_Bullet.label>机器子弹</Anneli_YoRHa_Machine_Bullet.label>
+
+
+  <!-- Anneli_YoRHa_Machine_Sound -->
+
+  <Anneli_YoRHa_Machine.label>(寄叶)8B_机器宝宝</Anneli_YoRHa_Machine.label>
+  <Anneli_YoRHa_Machine.description>不可染色.</Anneli_YoRHa_Machine.description>
+  <Anneli_YoRHa_Machine.comps.0.verbProps.0.label>机器</Anneli_YoRHa_Machine.comps.0.verbProps.0.label>
+  <Anneli_YoRHa_Machine.comps.0.verbProps.0.description>机器.</Anneli_YoRHa_Machine.comps.0.verbProps.0.description>
+  <Anneli_YoRHa_Machine.verbs.0.label>机器</Anneli_YoRHa_Machine.verbs.0.label>
+
+
+</LanguageData>

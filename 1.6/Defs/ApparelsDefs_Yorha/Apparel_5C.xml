@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_YoRHa_5C_NonMetal" ParentName="Anneli_5C_NonMetal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_YoRHa</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_YoRHa_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_YoRHa_5C_Metal" ParentName="Anneli_5C_Metal" Abstract="True">
+		<thingCategories>
+			<li>Anneli_Category_YoRHa</li>
+		</thingCategories>
+		<recipeMaker>
+			<recipeUsers>
+				<li>Anneli_YoRHa_Workbench</li>
+			</recipeUsers>
+		</recipeMaker>
+	</ThingDef>
+
+	<!--Anneli_YoRHa_LongGlovesYoRHa-->
+	<ThingDef ParentName="Anneli_YoRHa_5C_NonMetal">
+		<defName>Anneli_YoRHa_LongGlovesYoRHa</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)5C_LongGloves</label>
+		<graphicData>
+			<texPath>5C/Anneli_YoRHa_LongGlovesYoRHa</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_YoRHa_LongGlovesYoRHa</wornGraphicPath>
+			<tags>
+				<li>Anneli_YoRHa_Commander</li>
+				<li>Anneli_YoRHa_Attacker</li>
+				<li>Anneli_YoRHa_Battler</li>
+				<li>Anneli_YoRHa_Executioner</li>
+				<li>Anneli_YoRHa_Gunner</li>
+				<li>Anneli_YoRHa_Healer</li>
+				<li>Anneli_YoRHa_Scanner</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(255,245,245,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+		<generateAllowChance>0.7</generateAllowChance><!--Less Spawn-->
+	</ThingDef>
+
+	<!--Anneli_YoRHa_GauntletsYoRHa-->
+	<ThingDef ParentName="Anneli_YoRHa_5C_Metal">
+		<defName>Anneli_YoRHa_GauntletsYoRHa</defName>
+		<description>Dyeable.</description>
+		<label>(YoRHa)5C_Gauntlets</label>
+		<graphicData>
+			<texPath>5C/Anneli_YoRHa_GauntletsYoRHa</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>5C/Anneli_YoRHa_GauntletsYoRHa</wornGraphicPath>
+			<tags>
+				<li>Anneli_YoRHa_Defender</li>
+				<li>Anneli_YoRHa_Operator</li>
+			</tags>
+			<useWornGraphicMask>true</useWornGraphicMask><!--Mask Applied-->
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(50,45,50,255)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+
+</Defs>

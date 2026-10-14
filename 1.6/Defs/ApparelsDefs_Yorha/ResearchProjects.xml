@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<ResearchProjectDef>
+		<defName>Anneli_YoRHa_Apparels</defName>
+		<label>Annelitrice YoRHa Apparels</label>
+		<description>A high-tech device that transports raw materials to a secret factory for processing. Defying common sense, it appears to require no external power source.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Medieval</techLevel>
+		<prerequisites>
+      		<li>Anneli_PuppetTheatre</li>
+    	</prerequisites>
+		<researchViewX>1</researchViewX>
+		<researchViewY>3</researchViewY>
+		<tab>Anneli_Research</tab>
+	</ResearchProjectDef>
+
+	
+</Defs>
